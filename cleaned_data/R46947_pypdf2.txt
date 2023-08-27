@@ -1,0 +1,2215 @@
+ 
+ 
+  
+ U.S. Climate Change Policy  
+October 28, 2021  
+Congressional Research Service  
+   
+R46947   
+Congressional Research Service   
+SUMMARY  
+ 
+U.S. Climate Change Policy  
+The greenhouse gases (GHGs)  in the atmosphere trap radia nt energy , warming earth’s surface 
+and oceans. Scientific assessments conclude that GHGs very likely have been the main driver of 
+warming of the earth’s lower atmosphere since 1979. The most recent global assessment 
+projected that surface temperature would continue to rise until at least mid -century ev en under 
+the lowest GHG emission scenarios considered. A range of actions to mitigate GHG emissions 
+and the risks of climate change (i.e., for adaptation or resilience) are under  way or being 
+developed on the international , national,  and subnational level s. U.S. federal policymakers and 
+stakeholders have different viewpoints regarding  what , if anything,  to do  about future climate 
+change and related impacts.  
+Brief History of U.S. Climate Policy  
+Historically, the  United States has demonstrated varying  approa ches and intent with regard to 
+addressing climate change generally and to participating in GHG abatement under the 1992 
+United Nations Framework Convention on Climate Change (UNFCCC). International 
+negotiations led to, among other agreements, the adoption of the Paris Agreement (PA) in 2015 . 
+President Obama accepted the PA without submitting it to the Senate for advice and consent, and 
+the United States became a Party to the agreement when the PA entered into force in 2016. 
+President Trump announced U.S. wi thdrawal from the PA in June 2017, which became effective 
+in November 2020. President Biden  again accepted the PA , and the United States became a Party 
+on February 19, 2021.  
+U.S. climate change policy has involved actions  implemented under various legal au thorities.  
+Prior to 2007 , the federal government implemented  voluntary programs to address climate 
+change and regulatory programs that indirectly limited GHG emission increases from vehicles, 
+appliances and equipment, and buildings . A shift toward direct r egulation of GHG emissions 
+occurred following the 2007 decision in Massachusetts v. EPA , in which the Supreme Court 
+found that the Environmental Protection Agency ( EPA ) has authority to regulate GHG emissions 
+from motor vehicles as air poll utants under the  Clean Air Act . EPA subsequently  issued rules to 
+limit GHGs from various sources, although not all have been implemented . State and local 
+governments have also taken a variety of actions , includ ing emission controls on power plants 
+and vehicles  and buildin g codes.   
+U.S. Legislation  
+Members of Congress have historically expressed a range of perspectives regarding climate change issues. Legislative 
+proposals have included carbon pricing frameworks (e.g., carbon taxes or cap -and-trade programs), sectoral approaches such 
+as a clean energy  standard, research funding or tax policies that support GHG -abating technology development and 
+deployment, efforts to increase adaptation, and international cooperation. On the other hand,  introduced resolutions have 
+express ed that the multisector carbon pricing approaches are not in the economic interests of the United States.  Votes on 
+comprehensive climate change pol icy have been relatively rare in either chamber of Congress. Examples  of enacted 
+legislation involving climate change issues include tax incentives to promote renewable energy sources and carbon capture 
+and sequestration efforts.  
+Executive Branch Approach to Climate Change  
+President Biden announced a new GHG target for the United States:  to reduce net GHG emissions by 50 %-52% below 2005 
+levels by 2030 . The Administration has also centralized executive branch organizations to identify and coordinate climate -
+related actions , and issued directives with a view toward decisions that support meeting the Administration’s GHG reduction 
+targets .  
+Issues for Congress  
+Congress may consider issues concerning U.S. GHG targets, policy approaches, and funding.  For example,  U.S. participation 
+in the PA raises iss ues that Congress may consider concerning the ambition, relative level of effort, and performance of other 
+parties’ GHG mitigation, adaptation, technology, and financing associated with the PA. Differences in parties ’ GHG policies R46947  
+October 28, 2021  
+Richard K. Lattanzio, 
+Coordinator  
+Specialist in Environmental 
+Policy  
+  
+Jane A. Leggett  
+Specialist in Energy and 
+Environmental Policy  
+  
+Kezee Procita  
+Senior Research Librarian  
+  
+Jonathan L. Ramseur  
+Specialist in En vironmental 
+Policy  
+  
+Corrie E. Clark  
+Analyst in Energy Policy  
+  
+Genevieve K. Croft  
+Analyst in Agricultural 
+Policy  
+  
+Rena S. Miller  
+Specialist in Financial 
+Economics  
+  
+ U.S. Climate Change Policy  
+ 
+Congressional Research Service  may have implications for trade. For example, several national governments and the EU have discussed imposing border 
+carbon adjustments (i.e., tariffs) on  imported goods from countries that do not make similarly ambitious efforts to reduce 
+GHG emissions . U.S. Climate Change Policy  
+ 
+Congressional Research Service   Contents  
+Introduction          ..... 1 
+U.S. Emission Trends        ................  2 
+History of U.S. Federal Climate Policy         4 
+Mostly Voluntar y or Indirect Federal Approaches Until 2010    ..................  6 
+Federal Regulation of GHGs Under Existing Authorities, 2010 to 2021    .. 8 
+Vehicle Fuel Economy and GHG Standards      ....... 9 
+Power Plants and GHG Standards         10 
+Oil and Natural Gas Systems, Solid Waste Landfills, and GHG Standards   ..  10 
+Climate Mitigation Activities in U.S. States     ...................  11 
+U.S. Legislative Action        .................  13 
+Recently Enacted Legislation Related to GHGs      ..... 14 
+Legislative Proposals in the 117th Congress      ............  14 
+Adaptation         .....  17 
+Energy         ....  18 
+Equity           18 
+Finance         ...  18 
+Land Use           18 
+Executive Branch Approach to Climate Change Mitigation     .....  19 
+GHG Targets           19 
+Announced Policies and Rulemakings         20 
+Executive Order 13990, Protecting Public Health and the Environment and 
+Restoring Science To Tackle the Climate Crisis     .  20 
+Executive Order 14008, Tackling the Climate Crisis at Home and Abroad  ..  22 
+Executive Order 14027, Establishment of the Climate Change Support Office  ...............  24 
+Executive Order 14030, Climate -Related Financial Risk    .................  24 
+Executive Order 14037, Strengthening American Leadership in Clean Cars 
+and Trucks         ..  25 
+FY2022 Budget Request        .........  25 
+Issues for Congress         ....  28 
+GHG Targets and International Commitments      ........  29 
+U.S. Federal Policy Approaches       ...  30 
+Climate Change Funding        .........  31 
+ 
+Figures  
+Figure 1. U.S. GHG Emissions: 1 990-2019         4 
+Figure 2. U.S. Net GHG Emissions (1990 -2019) and Selected Emissions Targets   ...  20 
+  
+Tables  
+  
+Table A -1. Selected Climate Change Legislation in the 117th Congress    ....... 34 
+ U.S. Climate Change Policy  
+ 
+Congressional Research Service  Appendixes  
+Appendix A. Climate Change Legislation in the 117th Congress: Search Methodology  ...............  33 
+Appendix B. Selected Additional Actions in the Executive Branch    ..............  38 
+ 
+Contacts  
+Author Information         ....  42 
+ U.S. Climate Change Policy  
+ 
+Congressional Research Service   1 Introduction  
+Millions of discrete sources throughout the U.S. economy produce carbon dioxide (CO 2) and 
+other greenhouse gas (GHG ) emissions.1 These sources include motor vehicles, electric power 
+plants, industrial facilities, commercial buildings, and households, among others. Human -related 
+GHG emissions have increased since the beginning of the industrial era, unequivocally increasing 
+atmospheric concentrations of GHGs.2 For example, atmospheric concentrations of CO 2 have 
+increased by over 45% compared to preindustrial levels.3 Methane has increased by 156% over 
+the same time frame.4 
+The GHGs in the atmosphere trap infrared radiation as  heat, warming earth ’s atmosphere, land, 
+and ocean. The Intergovernmental Panel on Climate Change (IPCC) concluded in 2021 that “[i]t 
+is very likely that well -mixed GHGs were the main driver of tropospheric  warming since 1979 ”5 
+and that  “[g]lobal warming o f 1.5°C and 2°C [compared with preindustrial temperatures] will be 
+exceeded during the 21st century unless deep reductions in CO 2 and other GHG emissions occur 
+in the coming decades. ”6  
+The increasing atmospheric concentrations of GHGs have led to various changes  to the climate : 
+increases in average global temperature  and related rising sea levels , changes in precipitation, and 
+increases in frequency and intensity of some extreme weather events.  The latest major U.S. 
+scientific assessment, known as the Four th National Climate Assessment (NCA4) , concluded that 
+the increase in GHG s is driving global land and ocean warming and other climate changes that 
+are now unprecedented in the history of modern civilization . The second volume of the NCA4, 
+published in 2018 , concluded, inter alia , that human -induced climate change is affecting U.S. 
+communities across the country through extreme weather events and generally warmer 
+temperatures, more variable precipitation, and other observed trends.7 The NCA4 describes  
+contin ued and increasing disruption to infrastructure, economic, and social systems, including 
+economic disparities. According to its assessment, projected climate change impacts are affecting, 
+and are virtually certain to increasingly affect, the U.S. economy, trade, and other essential U.S. 
+interests.  Some stakeholders, as well as some Members of Congress, consider that the resulting 
+                                                 
+1 The primary greenhouse gases ( GHGs) emitted by human activities —and estimated by the U.S. Environmental 
+Protection Agency ( EPA ) in its annual inven tories —include carbon dioxide ( CO 2), methane, nitrous oxide , sulfur 
+hexafluoride , chlorofluoroca rbons, hydrofluorocarbons, and perfluorocarbons . Other GHGs include carbonaceous and 
+sulfuric aerosols,   and elevated tropospheric ozon e pollution generated by emissions of 
+nitrogen oxides and volatile organic compounds, such as solvents.  
+2 Intergovernmental Panel on Climate Change (IPCC), “AR6 Climate Change 2021: The Physical Science Basis,” 
+August 9, 2021, p. SPM -5,   report/ ar6/wg1/ . (Hereinafter, IPCC AR6 Science.)  
+3 The IPCC reported that from 1750 to 2019, CO 2 concentrations increased 47%. IPCC AR6 Science, pp. SPM -9 and 2 -
+20.  
+4 IPCC AR6 Science , pp. SPM -9 and 2 -20. 
+5 IPCC AR6 Science, p. SPM -6. The IPCC was established in 1988 under the auspices of the United Nations 
+Environment Programme and the Wo rld Meteorological Organization  to provide them with assessments of climate 
+change science . For more backgroun d, see IPCC, “History of the IPCC,”   about/ history/ .  
+6 IPCC AR6 Science, pp. SPM -16 to SPM -17. See also IPCC , Global Warming of 1.5°C, Special Report , 2018; U.S. 
+Global Change Research Program (USGCRP) , “Volume II: Impacts, Risks, and Adaptation in the United States ,” in 
+Fourth National Climate Assessment , eds. D. R. Reidmiller, C.  W. Avery, D.  R. Easterling, et al.  (Washington, DC : 
+USGCRP , 2018),  doi: 10.7930/NCA4.2018 ; and CRS Repo rt R45086, Evolving Assessments of Human and Natural 
+Contributions to Climate Change , by Jane A. Leggett .  
+7 USGCRP , “Volume II: Impacts, Risks, and Adaptation in the United States ,” in Fourth National Climate Assessment , 
+eds. D. R. Reidmiller, C.  W. Avery, D.  R. Easterling, et al.  (Wash ington, DC : USGCRP , 2018),  doi: 
+10.7930/NCA4.2018 . U.S. Climate Change Policy  
+ 
+Congressional Research Service   2 impacts of climate change in the United States and abroad are and would be modest and 
+manageable.  
+A range of actions that seek to  reduce GHG emissions are currently under  way or being 
+developed by international  and subnational entities  (e.g.,  financing by multilateral development 
+banks, or U.S. state actions or regional partnerships), as well as by the U.S. federal government 
+(e.g.,  support for carbon capture technologies). Nonetheless, Members of Congress  and 
+stakeholders have different viewpoints concerning what , if anything,  to do about future climate 
+change and related impacts.  President Joseph Biden ’s Administration has increase d the ambition8 
+of U.S. GHG reduction targets and announced a whole -of-government approach to addressing 
+climate change. In the legislative branch, n umerous Members of Congress have expressed a range 
+of perspectives regarding climate change issues . Some Me mbers seeking to take action on climate 
+change  have proposed a variety of legislative approaches . 
+This report provides an overview of U.S. climate change policy as of September 2021. It begins 
+with background on U.S. emission trends and a brief history of U.S. climate change policy, and 
+discusses emissions mitigation activities at the subnational level, including state and regional 
+programs. Next, the report discusses legislative developments, including recently enacted 
+legislation related to climate change  and legislative proposals in the 117th Congress. The report 
+also considers executive branch actions and presents information about the Biden 
+Administration ’s GHG targets, announced policies, proposals for legislative action, and examples 
+of other policy a ctions. The report concludes with issues for Congress.  
+This report does not provide a comprehensive summary of these actions, given their breadth and 
+continuously evolving nature. Rather, it aims to provide a snapshot of the current climate change 
+policy landscape. Upcoming international discussions, strongly held public opinions, expected 
+forthcoming scientific and economic reports, and other factors make it likely that climate change 
+may continue to be a topic of deliberation and proposed actions in Cong ress. Moreover, 
+developments may occur rapidly.   
+U.S. Emission Trends  
+The most recent U.S. GHG Inventory prepared by the U.S. Environmental Protection Agency 
+(EPA) reports annual emissions and emission sinks from 1990 through 2019.9 EPA’s inventory 
+include s gross and net emission levels.10 As illustrated in Figure 1, the highest level of gross U.S. 
+GHG emissions —15.6% above 1990 levels —occurred in 2007. Gross U.S. GHG emissions in 
+2019 were 6,558 million metric tons of carbon dioxide -equivalent emissions (MMTCO 2e),11 
+                                                 
+8 Ambition  with regard to GHG targets is a term used internationally with regard to the magnitude of l imitations or 
+reductions sought by countries or other actors . 
+9 Emission sinks, such as forests, vegetation, and soils, remove  CO 2 from the atmosphere and store the carbon. EPA, 
+Inventory of U.S. Greenhouse Gas Emissions and Sinks ,   ghgemissions/ inventory -us-greenhouse -
+gas-emissions -and-sinks . 
+10 Gross emissions  refer to total emissions from all sources , and it does not account for net removals of CO 2 emissions 
+from the atmosphere by vegetation and other sinks. U.S. sinks removed about 789 million metric tons ( MMT ) in 2019, 
+about 12% of gross emissions. EPA, Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990 -2019 , April 14, 
+2021,   ghgemissions/ draft -inventory -us-greenhouse -gas-emissions -and-sinks -1990 -2019 . 
+(Hereinaf ter, U.S. GHG Inventory, 1990 -2019. ) 
+11 Million metric tons of CO 2 equivalent (MMTCO 2e) is used because GHGs vary by global warming potential (GWP). 
+GWP is an index that allows comparisons of the heat -trapping ability of different gases over a period of tim e. U.S. Climate Change Policy  
+ 
+Congressional Research Service   3 which is 1.8% higher than 1990 GHG emission levels and 11.6% below 2005 levels —the year the 
+United States uses as a benchmark for its international GHG pledges.12 
+Figure 1 also shows the gross emissions contributions and trends by sector. The electricity sector 
+historically accounted for the largest percentage of U.S. GHG emissions from fossil fuel 
+combustion. As the figure indicates, emissions in the electricity sector decreased by 33% between 
+2005 and 2019.  As the side -by-side comparison in  Figure 1 illustrates, the decrease in total U.S. 
+GHG emissions over the past 15 years was largely related to decreases in the electric ity sector. 
+The evolving electricity generation portfolio played a key role in the emissions decrease in the 
+electricity sector. Different f ossil fuels, like coal and natural gas, generate different amounts of 
+GHGs per unit of generated electricity. For example, a natural -gas unit typically yields about 40% 
+of the GHG emissions of a coal -fired unit per megawatt -hour of electricity. Some sources of 
+electricity generation, such a s nuclear power, wind, and solar, emit no GHG  emissions  at the point 
+of power generation . Over the past decade, coal ’s contribution to electricity generation decreased, 
+while natural gas and renewable generation both increased. Several factors likely playe d a role in 
+this change , including technological advances, particularly hydraulic fracturing, as well  as federal 
+tax incentives for renewable energy and renewable portfolio standards in the states. These and 
+other factors have affected the relative price d ifferences between sources of electricity, 
+influencing their deployment in the electricity sector.13 
+Due to declines in the electricity sector emissions over the past decade, emissions from the 
+transportation sector surpassed those from electricity in 2016.14 In 2019, the transportation sector 
+accounted for 29%  of total U.S. GHG emissions, and the electricity and industrial sectors 
+accounted for 25% and 23%, respectively.  
+ 
+                                                 
+12 U.S. GHG Inventory, 1990 -2019.  
+13 For more discussion, see CRS Report R45453, U.S. Carbon Dioxide Emissions in the Electricity Sector: Factors, 
+Trends, and Projections , by Jonathan L. Ramseur . 
+14 For more discussion, see CRS Report R45453, U.S. Carbon Dioxide Emissions in the Electricity Sector: Factors, 
+Trends, and Projections , by Jonathan L. Ramseur . U.S. Climate Change Policy  
+ 
+Congressional Research Service   4 Figure 1. U.S. GHG Emissions: 1990 -2019  
+Total U.S. Emissions and Emissions by Sector  
+ 
+Source: Prepared by CRS; data from EPA, Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990 -2019, April 
+14, 2021,   ghgemissions/ draft-inventory -us-greenhouse -gas-emissions   
+Notes:  The scales of the y -axes in the above figures are different.  The figure presents g ross emissions  (i.e., the 
+total emissions from all sources ), and it does not account for net removals of CO 2 emissions from the 
+atmosphere by vegetation and other sinks . U.S. GHG emissions can be categorized in a  variety of ways. This 
+figure uses the economic sectors from EPA’s Inventory. EPA’s Inventory (Table 2 -12) also presents emissions by 
+economic sector , with the emissions from the electricity sector distributed to each sector based on the sector’s 
+electrici ty use.   
+History of U.S. Federal Climate Policy  
+The United States has historically demonstrated varying approaches and intent with regard to 
+addressing climate change generally and to participating in GHG  abatement under the 1992 
+United Nations Framework C onvention on Climate Change (UNFCCC).15 While the United 
+States was instrumental in establishing the negotiations toward that treaty, it did not support  
+binding GHG  “targets and timetables ” and financial assistance to lower -income countries to 
+reduce their emissions and adapt to climate change. The UNFCCC did not contain binding 
+targets.  
+                                                 
+15 U.N. Treaty Collection, Chapter XXIII . The  U.S. Senate’s ratification of the UNFCCC in October 1992 was second 
+among signatories and the first by an industrialized country. President George H. W. Bush transmitted the signed treaty 
+to the Senate for its advice and consent in 138 Congressional Recor d 23902 (September 8, 1992). The U.S. Senate gave 
+its advice and consent to ratification in 138 Congressional Record  33527 (October 7, 1992). See also S. Treaty Doc. 
+102-38 (1992); S. Exec. Rept. 102 -55. President Bush signed the instrument of ratification  and submitted it to the 
+United Nations on October 13, 1992. Depositary notification C.N.148.1993 . 
+U.S. Climate Change Policy  
+ 
+Congressional Research Service   5 Why “Net -Zero” Emissions T argets?  
+The UNFCCC stated an objective that effectively established a  collective “net zero” GHG emissions commitment 
+among parties  to the agreement , with no specific target date . The UNFCCC objective is “to stabilize GHG 
+concentrations in the atmosphere at a level that will prevent dangerous human interference with the climate 
+system, in a time frame which allows ecosystems to adapt naturally and ena bles sustainable development.” 
+Stabilizing GHG concentrations in the atmosphere requires that the balance of “gross” emissions of GHG minus 
+the removals of GHG from the atmosphere reach “net zero” in order to halt any accumulation of emissions in the 
+atmos phere that leads to climate change.  The date would be determined by a policy decision (i.e., balancing more 
+considerations than science alone) on what constitutes “ dangerous  ... interference in the climate system.” For more 
+information, see CRS In Focus IF 11821, Net-Zero Emissions Pledges: Background and Recent Developments , by Michael 
+I. Westphal . 
+The 1997 Kyoto Protocol to the UNFCCC included binding  GHG  targets for the industrialized 
+countries, includ ing the United States, listed in  its Annex I (“Annex I Parties ”), but no new 
+commitments for developing countries.16 The United States signed but did not ratify this treaty. 
+Following a stalemate in 2009 toward negotiation of a legal instrument that would i nclude the 
+United States, China , and other major emitting countries, the Barack Obama Administration led 
+development of a more collaborative and bilateral relationship with China and others.17 This more 
+collaborative process resulted in adoption of the Pari s Agreement (PA) in 2015.18 President 
+Obama accepted the agreement without submitting it to the Senate for advice and consent, and the 
+United States became a Party to the agreement when the PA entered into force in 2016.19 
+President Donald Trump announced U. S. withdrawal from the PA in June 2017, which , following 
+the procedures of the treaty, became effective in November 2020. On President Biden ’s first day 
+in office, he accepted the PA , and the United States again became a Party on February 19, 2021.   
+To dat e, U.S. climate change policy has involved actions —such as standards, investments, tax 
+incentives, programs, and support for technology innovation —implemented under various legal 
+authorities. Congress has previously deliberated comprehensive authority to a ddress climate 
+change, but votes on such legislation have been relatively rare . One example is H.R. 2454  in the 
+111th Congress , the American C lean Energy and Security Act of 2009 (“Waxman -Markey ”), 
+which would have established an economy -wide cap -and-trade system  to reduce GHG emissions . 
+The House passed H.R. 2454  in 2009 . Although companion legislation in the Senate, S. 1733 , 
+                                                 
+16 United Nations Treaty Collection, Chapter XXVII: Environment , “7.a. Kyoto Protocol to the United Nations 
+Framework Convention on Climate Change, ” December 12, 2015 ,   Pages/ ViewDetails.aspx? src=
+TREATY& mtdsg_no= XXVII -7-a&chapter= 27&clang= _en. The United St ates signed the Kyoto Protocol on 
+November 12, 1998. However, in the “Byrd -Hagel” Resolution ( S.Res. 98 , 105th Congress, agreed to by a 95 -0 vote), 
+the Senate expressed its oppositi on by stating that the United States should not sign a treaty that (1) “would mandate 
+new commitments to limit or reduce greenhouse gas emissions for the Annex I Parties, unless the protocol or other 
+agreement also mandates new specific scheduled commitmen ts to limit or reduce greenhouse gas emissions for 
+Developing Country Parties,” or (2) “would result in serious harm to the economy of the United States.” The K yoto 
+Protocol  was never submitted to the Senate for ratification . For background on internationa l treaties, see CRS Report 
+RL32528, International Law and Agreements: Their Effect upon U.S. Law , by Stephen P. Mulligan .  
+17 For a historical perspective, see CRS In Focus IF10296, New Climate Change Joint Announcement by China and the 
+United States , by Jane A. Leggett . 
+18 United Nations Treaty Collection, Chapter XXVII : Environment , “7.d. Paris Agreement, ” December 12, 2015 , 
+  Pages/ ViewDetails.aspx? src=TREATY& mtdsg_no= XXVII -7-a&chapter= 27&clang= _en. U.S. 
+depositary notification C.N.10 .2021 . See also CRS In Focus IF11746, United States Rejoins the Paris Agreement on 
+Climate Change: Options for Congress , by Jane A. Leggett . 
+19 Obama Administration officials  concluded that the PA  “does n ot require submission to the Senate because of the way 
+it is structured. The targets are not binding; the elements that are binding are consistent with alread y approved previous 
+agreements.”  See U.S. Department of State, “ Background Briefing on the Paris C limate Agreement,”  December 12, 
+2015,  https://2009 -2017.state.gov/ r/pa/prs/ps/2015/ 12/250592.htm .  U.S. Climate Change Policy  
+ 
+Congressional Research Service   6 was ordered reported from the Committee on Environment and Public Works, the bill was not 
+brought to the Senate floor for cons ideration. In the absence of new comprehensive legislative 
+authority to reduce GHGs, the Obama Administration pursued GHG emissions abatement under 
+existing authorities.20 State and local governments have also historically implemented a variety of 
+climate c hange actions (see “Climate Mitigation Activities in U.S. States ”).  
+Mostly Voluntary or Indirect  Federal Approaches Until 2010  
+From negotiation of the UNFCCC through the mid -2000s, the federal government primarily 
+relied on “no regrets ” programs to address climate change, along with some efficiency regulation  
+that also limited GHGs .21 The programs assisted agencies and nonfederal partners in achiev ing 
+voluntary GHG reductions using technical assistance and reputational incentives offered by the 
+EPA, the U.S. Department of Energy (DOE), and the U.S. Department of Agriculture (USDA) . 
+Examples include Energy Star, AgStar, and EPA’s Center f or Corporate Climat e Leadership 
+programs .22 A number of studies, however, concluded that voluntary action alone could not 
+substantially reduce GHG emissions.23 
+Several regulatory programs indirectly limited GHG emission increases from vehicles, appliances 
+and equipment, and buildings . These continue , and largely have had increasing influence on 
+reducing GHG emissions  as standards tightened over time . For example,  the Corporate Average 
+Fuel Economy (CAFE) standards promulgated by the National Highway Traffic Safety 
+Administrat ion (NHTSA) set fuel economy targets, in miles per gallon, for newly manufactured 
+passenger cars and light trucks sold in the United States . These standards have the co -benefit of 
+reducing GHG emissions from these vehicles .  
+DOE ’s conservation and energy e fficiency programs provide another example of standards that 
+indirectly limit GHGs. Congress has enacted several broad energy policy laws —including 
+support for energy conservation and energy efficiency —since the 1970s, most recently the 
+Energy Act of 2020 (Division Z of P.L. 116 -260). The Energy Policy and Conservation Act 
+(EPCA ; P.L. 94 -163) authorized a federal program to establish minimum energy conservation 
+standards for consumer products and industrial equipment, among other provisions. EPCA, as 
+amended, authorizes DOE ’s Appliance and Equipment Standards Program, which sets efficiency 
+standards for approximately 60 product categories.24 The Energy Conservation and Pro duction  
+Act (ECPA ; P.L. 94 -385) established federal voluntary performance standards for new re sidential 
+and commercial buildings and encouraged state and local governments to adopt and enforce 
+                                                 
+20 White House, “Remarks by the President in the State of the Union Address ,” February 12, 2013 . 
+21 A no regrets approach  generally refers to policies that would provide benefits, such as economic, human health, or 
+environmental benefits, regardless of future climate change.  
+22 See, for example, EPA, Voluntary Energy and Climate Pro grams, 2008, archived web page, 2017, at 
+  climatechange/ voluntary -energy -and-climate -programs_.html . See also EPA, 
+Business Guide to EPA Climate Partnership Programs,   partners/ web/ pdf/
+  .  
+23 See, among other resources, Thomas P. Lyon and John W. Maxwell, “Environmental Public Voluntary Programs 
+Reconsidered,” Policy Studies Journal , vol.  35, no. 4 (2007): pp. 723-750, https://d oi.org/ 10.1111/ j.1541 -
+0072.2007.00245.x ; Richard D. Morgenstern and William A. Pizer, Reality Check: The Nature and Performance of 
+Voluntary Environmental Programs in the United States, Europe, and Japan  (Routledge, 2010); and Katie Southworth, 
+“Corporat e Voluntary Action: A Valuable but Incomplete Solution to Climate Change and Energy Security 
+Challenges,” Policy and Society , vol.  27, no. 4 (March 1, 2009) , pp. 329-350, https://doi.org/ 10.1016 /
+  . 
+24 For more information, see CRS In Focus IF11354, Department of Energy Appliance and Equipment Standards 
+Program , by Corrie E. Clark . U.S. Climate Change Policy  
+ 
+Congressional Research Service   7 standards through building codes, among other provisions. ECPA, as amended, also established 
+federal building energy efficiency standards.25  
+Congress establi shed requirements for the federal government related to GHGs. The Energy 
+Policy Act of 2005 (EPACT 2005; P.L. 109 -58) established a renewable electricity goal for the 
+federa l government. The Energy Independence and Security Act of 2007 (EISA; P.L. 110 -140) 
+required agencies to report GHG emissions, although it did not specify what types of emi ssions. 
+EPACT 2005 also established the Renewable Fuel Standard (RFS), which mandates that U.S. 
+transportation fuels contain a minimum volume of renewable fuel; EISA subsequently expanded 
+the RFS mandate.26 The RFS mandate requires  that transportation fuels sold or introduced into 
+commerce in the United States contain an increasing volume of a predetermined suite of 
+renewable fuels.27 In order to be eligible for the RFS, a renewable fuel has to meet a GHG 
+emission reduction threshold , among other criteria. The statute required 4.0 billion gallons of 
+renewable fuel in 2006, ascending to 36.0 billion gallons required in 2022, with EPA determining 
+the volume amounts after 2022 in future rulemakings.28 
+After the mid -2000s , tax incentives a nd federal grants , including for research and development,  
+increasingly supported renewable energy generation, biomass fuels, and lower -emission 
+vehicles.29 Administrations, over decades, have supported research to develop technologies, such 
+as renewable en ergy systems, that could achieve deeper GHG reductions and reduce the cost of 
+doing so.  Increases in tax incentives for technology deployment, along with  growing  competition 
+among manufactur ers, led to increased  efficiencies and reduced costs of many techn ologies, 
+including wind and solar electricity generation .30 
+In late 2007, Congress directed EPA to establish a GHG reporting program. Specifically, the 
+Consolidated Appropriations Act, 2008 ( P.L. 110 -161), provided $3.5 million for EPA to develop  
+and publish a rule that would “require mandatory reporting of greenhouse gas emissions above 
+appropriate thresholds in all sectors of th e economy of the United States. ” In response t o the 
+congressional  directive, EPA established the Greenhouse Gas Reporting Program (GHGRP). It 
+requires reporting from facilities in nearly all categories of direct emitters  and from suppliers of 
+certain fuels and manufactured GHGs (e.g., fluorinated GHGs ) in the United States. T he broad 
+scope of emissions data collected from these sources allows the agency to assess trends in 
+emissions over time and within industry sectors for use in agency policy and programs.  The 
+                                                 
+25 Several laws have amended ECPA over the yea rs. For more information on federal building energy requirements, see 
+CRS Report R46719, Green Building Overview and Issues , by Corrie E. Clark .  
+26 EPACT established RFS as an amendment to the Clean Air A ct; see 42 U.S.C. §7545(o).  
+27 For more information, see CRS Report R43325, The Renewable Fuel Standard (RFS): An Overview , by Kelsi 
+Bracmort . 
+28 EPA has the authority to waive the RFS requirements, in whole or in part, if certain conditions outlined in statute 
+prevail. For more information, see CRS Report R44045, The Renewable Fuel Standard (RFS): Waiver Authority and 
+Modification of Volumes , by Kelsi Bracmort . 
+29 Most of the value of energy -related tax incentives supported fossil fuel until the mid -2000s, when the value of those 
+supporting renewables increased . For more information, see CRS Report  R44852, The Value of Energy Tax Incentives 
+for Different Types of Energy Resources , by Molly F. Sherlock .  
+30 For example, see Lazard, Levelized Cost of Energy, Levelized Cost of Storage, and Levelized Co st of Hydrogen , 
+October 18, 2020,   perspective/ lcoe2020 . In addition, there have been tax credits for alternative 
+fuel vehicles, such as hybrids, and more recently for plug -in electric vehicles. For more information, see CRS In Focus 
+IF11017, The Plug -In Electric Vehicle Tax Credit , by Molly F. Sherlock . U.S. Climate Change Policy  
+ 
+Congressional Research Service   8 GHGRP does not impose emissions limits, but reporting programs may create transparency 
+incentives for sources to limit their emissions due to public or reputational pressures.31 
+Federal Regulation of GHG s Under Existing Authorities , 2010 to 
+2021  
+A shift toward direct federal regulation of GHG emissions occurred following the 2007 decision 
+in Massachusetts v. EP A , in which the Supreme Court found that EPA has authority to regulate 
+GHG emissions from motor vehicles as air pollutants under the Clean Air Act (CAA).32 In the 5 -4 
+decision, the Court ’s majority concluded that EPA must decide whether GHG emissions from 
+new motor vehicles contribute to air pollution that may reasonably be anticipated to endanger 
+public health or welfare —or provide a reasonable explanation why it cannot o r will not make that 
+decision. On December 15, 2009, EPA promulgated findings that six GHGs33 endanger both 
+public health and welfare and that GHG emissions from new motor vehicles contribute to that 
+endangerment.  These findings are collectively referred to  as the “endangerment finding. ”  
+Of the six GHGs discussed in EPA ’s endangerment finding, CO 2 is the most prevalent, 
+accounting for about 80% of U.S. GHG emissions, on a CO 2-equivalent basis, from human 
+activities in 2019.34 The second -most -prevalent gas in  the United States in terms of emissions is 
+methane (10% of U.S. GHG emissions in 2019), followed by nitrous oxide (7% in 2019).35 In 
+2019, about two -thirds of domestic CO 2 emissions were produced by the combustion of fossil 
+fuels for energy and transportat ion.36 The primary sources of U.S. methane emissions include oil 
+and natural gas systems, agriculture, and landfills,37 and the primary source of nitrous oxide 
+emissions is agricultural soil management.38  
+The endangerment finding triggered EPA ’s duty under C AA Section 202(a) to promulgate 
+emission standards for new motor vehicles , which are discussed below .39 EPA has also since 
+issued rules to limit GHGs under other CAA authorities. For example, the agency promulgated 
+regulations under CAA Section 111 to limit  GHGs from the electricity sector, the oil and gas 
+                                                 
+31 CRS In Focus IF11754, EPA’s Greenhouse Gas Reporting Program , by Angela C. Jones . 
+32 549 U.S. 497 (2007). The Court held that GHGs are air pollutants within the Clean Air Act’s ( CAA’s ) definition of 
+that term and that EPA must regulate their emissions from motor vehicles if the agency finds that such emissions cause 
+or contribute to air pollution that may reasonably be anticipated to endanger public health or welfare . See CRS Report 
+R43699, Key Historical Court Decisions Shaping EPA’s Program Under the Clean Air Act , by Linda Tsang . The Clean 
+Air Act is  codified as 42 U.S.C. 7401 et seq . 
+33 The six GHGs are CO 2, methane, nitrous oxide, h ydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride . 
+34 U.S. GHG Inventory, 1990 -2019 . 
+35 Prevalence reported on a CO 2-equivalent basis. U.S. GHG Inventory, 1990 -2019 . 
+36 EPA attributed 35% of U.S. CO 2 emissions to transportation and 31% to electrici ty. U.S. GHG Inventory, 1990 -2019 . 
+See also EPA, Overview of Greenhouse Gases ,   ghgemissions/ overview -greenhouse -gases . 
+37 Two agricultural sources of methane ar e livestock (e.g., some animals produce methane through the digestive 
+process, known as enteric fermentation) and management of animal manure. EPA attributed 27% of methane emissions 
+in 2019 to enteric fermentation and 9% to manure management. EPA also est imated that 30% of methane emissions 
+were produced by oil and natural gas systems in 2019, and 17% by landfills in 2019. U.S. GHG Inventory, 1990 -2019 . 
+See also EPA, Overview of Greenhouse Gases ,   ghgemissions/ overview -greenhouse -gases . 
+38 EPA reported that agricultural soil management (e.g., application of fertilizers, manure management, or burning of 
+agricultural residues) accounted for 75% of domestic nitrous o xide emissions in 2019.  U.S. GHG Inventory, 1990 -
+2019 . See also EPA, Overview of Greenhouse Gases ,   ghgemissions/ overview -greenhouse -gases . 
+39 EPA, “Endangerment and Cause or Contribute Findings for Greenhouse Gases Under Section 202(a) of the Clean Air 
+Act; Final Rule,” 74 Federal Register 66496, December 15, 2009 .  U.S. Climate Change Policy  
+ 
+Congressional Research Service   9 industry, and municipal solid waste landfills.  EPA also finalized, in consultation with the Federal 
+Aviation Administration, CO 2 emission standards for civilian aircraft under CAA Section 231 in 
+January 20 21.40 EPA developed the aircraft standards in line with the internationally negotiated 
+standards agreed to by parties to the International Civil Aviation Organization.  
+The remainder of this section discusses GHG rules for vehicles, power plants, oil and nat ural gas 
+systems, and municipal solid waste landfills that were promulgated prior to the Biden 
+Administration.  
+Vehicle Fuel Economy and GHG Standards  
+As noted previously,  transportation emissions are currently the largest source of GHG emissions 
+in the Un ited States.41 In 2010, t he Obama Administration brokered an agreement among 13 auto 
+manufacturers, the State of California,42 the United Auto Workers union, and other interested 
+parties for GHG emission standards for automobiles and light trucks. EPA promul gated these 
+GHG standards, which aligned with NHTSA ’s CAFE program, as well as with those developed 
+by California to facilitate a “single national standard ” for manufacturers.43 EPA and NHTSA also 
+promulgated two phases of fuel efficiency and GHG standards for newly manufactured heavy -
+duty vehicles and engines (e.g., long -haul tractor -trailers, buses, and construction and utility 
+vehicles ).44 
+In 2020 , EPA and NHTSA promulgated the SAFE Vehicles Rule, which relaxed the GHG  and 
+fuel economy  standards  for light -duty vehicles .45 EPA also withdrew the waiver that had allowed 
+California to set GHG emission standards stronger than the national standards to meet 
+“compellin g and extraordinary conditions, ” as authorized under the CAA.46 Various states, local 
+governments, and environmental and consumer organizations filed petitions for review in the 
+U.S. Court of Appeals for the D.C. Circuit challenging the SAFE Vehicles Rule.  
+                                                 
+40 EPA, “Control of Air Pollution From Airplanes and Airplane Engines: GHG Emissi on Standards and Test 
+Procedures,” 86 Federal Register 2136, January 11, 2021. For background, see CRS In Focus IF11696, Aviation and 
+Climate Change , by Richard K. Lattanzio .  
+41 U.S. GHG Inventory, 1990 -2019.  
+42 The Energy Policy and Conservation Act of 1975 , as amended,  and the CAA, as amended,  generally preempt states 
+from adopting their own fuel economy and emission standards for new motor vehicles. However, CAA Section 209(b) 
+allows the State of California to request a preemption waiver for its vehicle emission standards provided that they ar e at 
+least as stringent as federal standards and, among other  things, are necessary to meet “ compelling and extraordinary 
+conditions. ” For this reason, California has typically been involved in all federal vehicle emissions rulemakings.  
+43 For model years 2 012-2016, see EPA and NHTSA, “ Light -Duty Vehicle Greenhouse Gas Emissions and Corporate 
+Average Fuel Economy Standards; Final Rule ,” 75 Federal Register  25323, May 7, 2010. For model years 2017 and 
+later, see EPA and NHTSA , “2017 and Later Model Year Light -Duty Vehicle Greenhouse Gas Emissions and 
+Corporate Average Fuel Economy Standards; Final Rule,” 77  Federal Register  62624, October 15, 2012 . 
+44 Phase 1 rule: EPA and NHTSA, “Greenhouse Gas Emissions Standards and Fuel -Efficiency Standards for Medium - 
+and Heavy -Duty Engines and Vehicles,” 76 Federal Register  57106, September 15, 2011. Phase 2 rule: EPA and 
+NHTSA, “Greenhouse Gas Emissions Standards and Fuel -Efficiency Standards for Medium - and Heavy -Duty Engines 
+and Vehicles —Phase 2,” 81 Federal Register  73478, October 25, 2016.  
+45 EPA and NHTSA, “The Safer Affordable Fuel -Efficient (SAFE) Vehicles Rule for Model Years 2021 -2026 
+Passenger Cars and Light Trucks,” 85 Federal Register  24174, April 30, 2020.  
+46 EPA and NHTSA, “ The Safer, Affordable, Fuel -Effic ient (SAFE) Vehicles Rule, Part One: One National Program,”  
+84 Federal Register  51310, September 27, 2019 . See also CRS In Focus IF10871, Vehicle Fuel Economy and 
+Greenhouse Gas Standards , by Richard K. La ttanzio, Linda Tsang, and Bill Canis .  U.S. Climate Change Policy  
+ 
+Congressional Research Service   10 Power Plants and GHG Standards  
+To limit CO 2 from the electricity sector, currently the second -largest emitting source category in 
+the United States,47 EPA in 2015 promulgated New Source Performance Standards (NSPS) for 
+new and modified fossil -fuel-fired power plants48 and—for existing plants —the Clean Power 
+Plan (CPP).49 The CPP was the subject of ongoin g litigation and was never implemented . While 
+the NSPS remain in place, the Trump Administration repealed the CPP and finalized a new rule, 
+the Affordable Clean Energy (ACE) rule, to limit CO 2 from existing power plants. The ACE rule 
+applied a narrower int erpretation  than the CPP of the “best system of emission reduction, ” 
+defining it as on -site “heat rate  improvement ” measures, also known as efficiency improvements, 
+for existing coal -fired units.50 In January 2021, a federal appellate court vacated and rema nded 
+the ACE rule to EPA, and it remains unclear how EPA may act on the rule.51 The CPP and ACE 
+rules, issued under separate  Administrations, relied on differ ent interpretations of EPA ’s CAA 
+authority, which may raise questions about EPA ’s potential approac h to regulating GHG 
+emissions under the CAA . 
+Although federal requirements to limit GHG emissions in the electricity sector have not been 
+implemented,52 GHG emissions in the sector declined by 33% between 2005 and 2019, as 
+discussed earlier in this report. See “U.S. Emission Trends ” and Figure 1.  
+Oil and Natural Gas Systems, Solid Waste Landfills, and GHG Standards  
+Under the Obama Administration, federal activities in support of GHG emissions reductions in 
+various industrial sectors became a cornerstone of President Obama ’s “Climate Action Plan. ” The 
+Administration promulgated several regulations to address these emissions, including  
+ EPA standards to reduce methane emissions from new and modified activities 
+and equipment in the oil an d natural gas sector (finalized on June 3, 2016);53 
+ EPA standards to reduce methane emissions from new and existing municipal 
+solid waste landfills (finalized on August 29, 2016);54 and 
+                                                 
+47 U.S. GHG Inventory, 1990 -2019.  
+48 EPA, “ Standards of Performance for Greenhouse Gas Emissions from New, Modified, and Reconstructed Stationary 
+Sources: Ele ctric Utility Generating Units,”  Final Rule, 80  Federal Reg ister 64509, October 23, 2015.  
+49 EPA, “ Carbon Pollution Emission Guidelines for Existing Stationary Sources: Final Rule,”  80 Federal Register  
+64661, October 23, 2015 . 
+50 CRS Report R46568, EPA’s Affordable C lean Energy Rule: In Brief , coordinated by Kate C. Shouse .  
+51 The court directed  EPA to reconsider its interpretation of its CAA Section 111(d) authority to regulate GHGs from 
+existing power plants. The court also vacated the CPP repeal but stayed its ma ndate until the EPA responds to the 
+court ’s remand in a new rulemaking action.  
+52 Under the ACE rule, states were to establish performance standards for designated facilities through state plans . A 
+federal appellate court vacated and remanded the ACE rule to EPA before the date —July 8, 2022 —that state plans 
+were due to EPA.  
+53 EPA, “Oil and Natural Gas Sector: Emission Standards for New, Reconstructed, and Modified Sources,” 81 Federal 
+Register  35824, June 3, 2016.  
+54 For new landfills, see EPA, “Standards of Performance for Municipal Solid Waste Landfills,” 81 Federal Register  
+59332, August 29, 2016. For existing landfills, see EPA, “Emission Guidelines and Compliance Times for Municipal 
+Solid Wa ste Landfills,” 81 Federal Register  59276, August 29, 2016.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   11  Bureau of Land Management (BLM) standards to prevent the waste of gas (i .e., 
+methane) through venting and flaring during oil and natural gas production on 
+public lands (finalized on November 18, 2016).55 
+President Trump subsequently signed Executive Order 13783 on March 28, 2017, requiring 
+agencies to review existing regulation s and “appropriately suspend, revise, or rescind those that 
+unduly burden ” domestic energy production and use. Further, the federal courts reviewed 
+provisions in the Obama -era standards and the Trump Administration ’s revisions. As a result, the 
+status of f ederal methane regulation was as follows by the end of the Trump Administration:  
+ EPA rescinded the 2016 methane standards for the oil and gas sector (September 
+14, 2020).56 (See also “Recently Enacted Le gislation Related to GHGs ” for 
+related legislative action undertaken in 2021, in particular, S.J.Res. 14  and P.L. 
+117-23, which disapproved  the 2020 policy revisions of EPA ’s 2016 methane 
+standards for the oil and natural gas sector . Although most of the requirements 
+under EPA ’s 2016 rule are back in fo rce, their fate remains unclear because of 
+pending legislative, executive, and judicial actions.57) 
+ The 2016 methane standards for new and existing municipal solid waste landfills 
+remain in effect.58 Stakeholders have challenged the 2016 methane standards fo r 
+existing landfills in court, but the litigation is on hold.59 
+ BLM rescinded the 2016 waste prevention standards for the oil and gas sector 
+(September 28, 2018). A California federal district court vacated the rescission 
+(July 15, 2020);60 however, a Wyomin g federal district court subsequently 
+vacated all provisions in the 2016 rule related to the loss of gas (October 8, 
+2020).61 Appellate litigation is ongoing.62  
+Climate Mitigation Activities in U.S. States  
+In the absence of comprehensive federal controls on GHG emissions, state and local governments 
+have taken a variety of actions ―both legal mandates and voluntary efforts ―for nearly 20 years. 
+Generally, these efforts include emission controls on power plants  and vehicles; building codes; 
+                                                 
+55 Bureau of Land Management, “Waste Prevention, Production Subject to Royalties, and Resource Conservation,” 81 
+Federal Register  83008, November 18, 2016.  
+56 EPA, “Oil and Natural Gas Sector: Emiss ion Standards for New, Reconstructed, and Modified Sources Review,” 85 
+Federal Register  57018, September 14, 2020.  
+57 For more information, see CRS Legal Sidebar LSB10622, Looking Ahead: Regulating Methane  from the Oil and 
+Natural Gas Sector , by Linda Tsang .  
+58 Since 2016, EPA has taken actions related to the timing and implementation of the landfill methane standards. 
+However, on April 5, 2021, the D.C. Circuit granted EPA’s request to vacate and remand the 2019 rule, which had 
+extended the timing for state plan requirements for existing landfills. Environmental Def. Fund  v. EPA, No. 19 -1222 
+(D.C. Cir.  April 5, 2021 ). In 2021, EPA finalized federal plan requirements to implement the standards for existing  
+landfills; see EPA, “Federal Plan Requirements for Municipal Solid Waste Landfills That Commenced Construction 
+On or Before July 17, 2014, and Have Not Been Modified or Reconstructed Since July 14, 2014,” 86  Federal Register  
+27756, May 21, 2021.  
+59 Order, National Waste & Recycling Ass’n v. EPA, No. 16-1371  (D.C. Cir. April 17, 2018). See also CRS Report 
+R44615, EPA’s Methane Regulations: Legal Overview , by Linda Tsang .  
+60 California v. Bernhardt, 472 F. S upp. 3d 573 (N.D. Cal. 2020) . 
+61 Wyoming v. U.S. Dep’t of the Interior, 493 F. Supp. 3d 1046 (D. Wyo. 2020).  
+62 Congressional clients may contact Linda Tsang, CRS Legislative Attorney, for more information.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   12 and other  actions. In particular, a  number of U.S. states have mandatory GHG reduction 
+programs , including the following:   
+ California has a GHG emissions cap -and-trade program that went into effect in 
+2013 that applies to electric power, selected industries, and fossil fuel 
+distributors.63 The program is linked with a cap -and-trade program in the 
+Canadian province of Quebec. The program is a key component of the state ’s 
+plan to meet its legislated target of reducing GHG emis sions 40% below 1990 
+levels by 2030.64 
+ Eleven U.S. states participate in the Regional Greenhouse Gas Initiative 
+(RGGI),65 a cap -and-trade program on CO 2 emissions from electric power that 
+went into effect in 2009. The RGGI states have revised their program o ver time. 
+The most recent revision aims to reduce power -sector emissions in the 11 states 
+to 30% below 2020 levels by 2030.66 
+ Thirty states, three U.S. territories, and the District of Columbia have mandatory 
+electricity portfolio standards (clean energy st andards or renewable portfolio 
+standards), which require a minimum amount of electricity be generated by 
+eligible sources such as renewables. Of these, 11 jurisdictions are to  ultimately 
+require 100% of electricity to come from eligible clean sources.67  
+ Regarding vehicle emissions, California set standards  in 2009 , jointly with the 
+federal government, to increas e fuel efficiency and reduc e GHG emissions from 
+many types of on -road vehicles.68 California also set standards to require auto 
+manufacturers to incr ease the number of zero emission vehicles (ZEVs) sold in 
+the state.69 Fourteen other states and the District of Columbia adopted 
+California ’s vehicle standards.70 California ’s authority to set these standards 
+under the CAA was preempted by the Trump Administ ration, but related 
+                                                 
+63 For more information, see the California Air Resources Board website,   our-work/ programs/
+cap-and-trade -program . 
+64 See California Senate Bill 32 (signed September 8, 2016); for a discussion of how the state intends to meet these 
+goals, see California Air Resources Board,  California’s 2017 Climate Change Scoping Plan ,  
+sites/ default/ files/ classic/ cc/scopingplan/   .  
+65 The Regional Greenhouse Gas Initiative (RGGI) states are Connecticut, Delaware, Maine, Maryland, Massachusetts, 
+New Hampshire, New Jersey, New York, Rhode Island, Virginia, and Vermont.  Through executive branch action, 
+Pennsylvania is seeking to join RGGI. Some policymakers in Pennsylvania’s legislative bodies have voiced strong 
+opposition to joining RGGI and the governor’s actions to join the pr ogram without enacting new legislation . 
+66 See RGGI 2016 program review materials,   program -overview -and-design/ design -archive/ 2016 -
+materia ls. 
+67 The 11 jurisdictions with 100% clean energy standards are California, Colorado, the District of Columbia, Hawaii, 
+Massachusetts, New Mexico, New York, Oregon, Puerto Rico, Virginia, and Washington. For additional information, 
+see CRS Report R46691, Clean Energy Standards: Selected Issues for the 117th Congress , by Ashley J. Lawson . 
+68 California Air Resources Board, “Low Emissions Vehicle Program,”   our-work/ programs/
+low-emission -vehicle -program . 
+69 California Air Resources Board, “ Zero -Emission Vehicle Program ,”   our-work/ programs/
+zero-emission -vehicle -program . 
+70 The CAA  allows other states to adopt California’s motor vehicle emission standards under certain conditions (42 
+U.S.C. §7507). Section 177 requires, among other things, that such standards be identical to the California standards for 
+which a waiver has been grant ed. States are not required to seek EPA approval under the terms of Section 177. 
+Fourteen other states and the District of Columbia have adopted California’s GHG s tandards under these provisions: 
+Colorado , Connecticut,  Delaware, Maine, Maryland, Massachuse tts, New Jersey, New York, Oregon, Pennsylvania , 
+Rhode Island, Vermont,  Virginia, Washington, and the District of Columbia.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   13 litigation paused in February 2021 so the incoming Biden Administration could 
+review and potentially revise the rule. Additionally, 45 states and the District of 
+Columbia provide incentives for electric vehicles and/or hybrids. The ince ntives 
+range from tax credits or rebates to fleet acquisition goals, exemptions from 
+emissions testing, or favorable electricity rate treatment .71 Further, seven states 
+have some version of a low carbon fuel standard or alternative fuel standard .72 
+Additiona lly, 13 Northeast and Mid -Atlantic states plus the District of Columbia 
+have sought policies to reduce carbon emissions from the transportation sector , 
+and are seeking to use a policy modeled on RGGI and coordinated through the 
+Transportation and Climate I nitiative .73 
+When President Trump  announced in June 2017 his intention to withdraw the United States from 
+the PA, some U.S. mayors, county executives, governors, tribal leaders, college and university 
+leaders, businesses, faith groups, and investors formed the We Are Still In organization to pledge 
+and demonstrate nonfederal climate change actions to the international community.74 In addition, 
+the U.S. Climate Alliance, which includes governors from 24 states and Puerto Rico, announced a 
+commitment to reduce net GHG emissions from their states at least 50 %-52% below  2005 levels 
+by 2030 and to achieve net -zero GHG emissions no later than 2050.75 The degree to which state 
+and local governme nts can achieve these targets without federal action is uncertain, as the legal 
+authorities and jurisdictions over GHG emissions sources may be limited in some cases . 
+U.S. Legislative Action  
+Members of Congress have historically expressed a range of perspe ctives regarding climate 
+change issues and have proposed a variety of legislative approaches. Legislative proposals have 
+included  
+ carbon pricing frameworks (e.g., carbon taxes or cap -and-trade programs)76 that 
+would address a majority of U.S. GHG emissions ;  
+ sectoral approaches , such as a clean energy standard;  
+ funding or tax policies that support  GHG -abating technology development and 
+deployment ;  
+ efforts to increase adaptation to climate change ; and  
+ international cooperation.   
+                                                 
+71 For more detail, see National Conference of State Legislatures, “ State Policies Promoting Hybrid and Electric 
+Vehicles ,”   research/ energy/ state-electric -vehicle -incentives -state-chart.aspx . 
+72 California and Oregon have low carbon fuel standards; Louisiana, M innesota, Missouri, Oregon, Pennsylvania, and 
+Washington have alternative fuel standards. For a summary, see Center for Climate and Energy Solutions, “ Low 
+Carbon and Alternative Fuel Standard ,”   document/ low-carbon -fuel-standard/ . 
+73 For more information, see Transportation and Climate Initiative,   . 
+74 “We Are Still  In,” accessed April 11, 2021,   about . In 2021, We Are Still In joined 
+America’s Pledge and formed a new coalition, America Is All In; see   about/ . 
+75 United States Climate Alliance, “U.S. Climate Alliance Commits to Achieve Net -Zero Emissions No Later than 
+2050,”   publications/ newtargets . 
+76 For background on carbon pricing, see CRS Report R45625, Attaching a Price to Greenhouse Gas Emissions with a 
+Carbon Tax or Emissions Fee: Cons iderations and Potential Impacts , by Jonathan L. Ramseur and Jane A. Leggett . U.S. Climate Change Policy  
+ 
+Congressional Research Service   14 On the other hand, some Me mbers have introduced resolutions  expressing that the multisector 
+carbon pricing approaches are not in the economic interests of the United States.77 
+Votes on comprehensive climate change proposals  have been relatively rare in either chamber of 
+Congress, al though votes on proposals that may indirectly address climate change have been 
+more common . For example, Congress has repeatedly enacted legislation with tax incentives for 
+renewable energy and carbon capture and sequestration efforts .78 
+Recently Enacted Le gislation Related to GHGs  
+The Consolidated Appropriations Act, 2021 ( P.L. 116 -260), contained measures relevant to 
+reducing GHG emissions, including the Energy Act of 2020  (Division Z) and the American 
+Innovation and Manufacturing (AIM) Act of 2020  (Division S, §103). The Energy Act of 2020 
+promotes increased energy efficiency in homes, schools, and federal buildings; expands research 
+and development in nuclear energy, ener gy storage, electric vehicles, renewable energy, and 
+carbon capture utilization and storage (CCUS); and promotes energy storage development , among 
+other provisions .79 
+The AIM  Act of 2020  establishes a 15 -year timeline to reduce domestic hydrof luorocarbons 
+(HFCs), a potent class of GHGs used in air conditioning and refrigeration equipment , and directs 
+the EPA to implement the requirements, including through regulations. AIM ’s phasedown 
+schedule appears to align with international commitments to phase down HFCs under the Kigali 
+Amendment to the Montreal Protocol to the 1985 Vienna Convention for the Protection of the 
+Ozone Layer.80 EPA has begun developing a program to phase down HFCs under AIM Act 
+authorities.81  
+The 117th Congress passed, and President Biden  signed  into law , S.J.Res. 14  (P.L. 117 -23), on 
+June 30, 2021, disapproving of the Trump Administration ’s 2020 policy revision s of EPA’s 2016 
+methane stand ards for the oil and natural gas sector. Although most of the requirements under 
+EPA’s rule are back in force, their fate remains unclear because of pending legislative, executive, 
+and judicial actions.82  
+Legislative Proposals in the 117th Congress  
+Majority lea dership in both the House and the Senate in the 117th Congress have called for whole -
+of-chamber approaches to addressing climate change.83 Members have introduced many 
+                                                 
+77 For example, see H.Con.Res. 41  in the 116th Congress and S.Res. 472  in the 114th Congress.  
+78 For more information, see CRS Report R46865, Energy Tax Provisions: Overview and Budgetary Cost , by Molly F. 
+Sherlock ; and CRS Re port R44902, Carbon Capture and Sequestration (CCS) in the United States , by Peter Folger . 
+79 For more information, see CRS Report R46723, U.S. Energy in t he 21st Century: A Primer , coordinated by Melissa 
+N. Diaz .  
+80 The United States is a Party to the Montreal Protocol (MP). As of September  2021, the United States is not a Party to 
+the Kigali Amendment.  For more information, see CRS In Focus IF11779, Hydrofluorocarbon Phasedown: Issues for 
+Congress , by Kate C. Shouse .  
+81 For example, see  EPA, “Phasedown of Hydrofluorocarbons: Establishing the Allowance Allocation and Trading 
+Program under the American Innovation and Manufacturing Act,” 86  Federal Register  55116, October 5, 2021.   
+82 For more information, see CRS Legal Sidebar LSB10622, Looking Ahead: Regulating Methane from the Oil and 
+Natural Gas Secto r, by Linda Tsang .  
+83 See, for example, Speaker Nancy Pelosi, “Pelosi Remarks at Press Event Introducing  H.R. 9 , Climate Action Now 
+Act,” March 27, 2019,   newsroom/ 32719 ; and Senate Democrats, “Majority Leader Schumer 
+Floor Remarks Providing An Update On The Senate Organizing Resolution And Instructing All Relevant Committees U.S. Climate Change Policy  
+ 
+Congressional Research Service   15 proposals that address climate change in some capacity, and climate change  legislation ha s been 
+referred to more than 35 committees.   
+Among these proposals is legislation intended to modernize U.S. infrastructure and fund 
+initiatives that may also increase climate resilience or reduce GHGs. In June 2021, a group of 
+Senators reached agreement w ith President Biden on the “Bipartisan Infrastructure Framework ” 
+(BIF), a $1.2 trillion plan that would authorize $579 billion in new spending on transportation 
+infrastructure, power infrastructure, climate resiliency, and other initiatives.84 The BIF serve d as 
+the basis for the Infrastructure Investment and Jobs Act (IIJA), a substitute amendment ( S.Amdt. 
+2137 ) to H.R. 3684 , which t he Senate passed on August 10, 2021. IIJA is both an authorizing bill 
+and an appropriations bill ,85 and it would authorize funds for federal -aid highways, highway 
+safety programs, water and electricity infrastructure, broadband, and other initiatives. IIJA would 
+also provide  funds intended to promote, among other things, clean energy and increase d 
+resilience of  U.S. infrastructure, such as schools and ports. For example, IIJA would authorize 
+funds for a Port Infrastructure Development Program, which would include projects “that 
+improve the resiliency of ports to address sea -level rise, flooding, extreme weather events, 
+earthquakes, and tsunami inundation, as well as projects that reduce or eliminate port -related 
+criteria pollutant or greenhouse gas emission. ”86 As of September 2021, the House had  not 
+considered  IIJA.  
+Congress has also considered climate change sp ending through its work on FY2022 budget 
+reconciliation. Both chambers agreed to a $3.5 trillion budget resolution, S.Con.Res. 14 , which 
+established the congressional budget for  FY2022, set budgetary levels for FY2023 -FY2031, and 
+provided reconciliation instructions to committees in the House and Senate.87 Among other 
+things, S.Con.Res. 14  sought to aut horize spending that would support the President ’s goals of 
+“80 percent clean electricity and 50 percent economy -wide carbon emissions reductions by 
+2030.”88 It set a September 15, 2021, deadline for House and Senate committees to submit 
+legislative languag e to their respective Budget Committees for the reconciliation package. The 
+House Budget Committee combined the House committee markups into one bill, H.R. 5376 , 
+                                                 
+To Hold Hearings On The Climat e Crisis In Preparation For Enacting President Biden’s Build Back Better Agenda | 
+Senate Democratic Leadership,” February 3, 2021,   news/ press -releases/ majority -
+leader-schumer -floor -remarks -providing -an-update -on-the-senate -organizing -resolution -and-instructing -all-relevant -
+committees -to-hold-hearings -on-the-climate -crisis -in-preparation -for-enacting -president -bidens -build -back -better -
+agenda . 
+84 Sen. Mitt Romney, “Sena tors’ Joint Statement and Framework on Bipartisan Infrastructure Deal,” press release, June 
+24, 2021,   senators -joint-statement -framework -bipartisan -infrastructure -deal. See also 
+Sen. Mark R. Warner, “Warner, President Biden & Senate Colleagues Announce Bipartisan Agreement on 
+Infrastructure,” press release, June 24, 2021,   public/ index.cfm/ 2021/ 6/warner -
+president -biden -senate -colleagues -announce -bipartisan -agreement -on-infrastru cture . 
+85 Congress has established a process that provides for two separate types of measures —authorization measures and 
+appropriation measures. These measures perform different functions. Authorization acts establish, continue, or modify 
+agencies or programs. An authorization act may also explicitly authorize subsequent appropriations for specific 
+agencies and programs, frequently setting spending ceilings for them. See  CRS Report R42388, The Congressi onal 
+Appropriations Process: An Introduction , coordinated by James V. Saturno . 
+86 IIJA, Division J, Title VIII, “Transportation, Housing and Urban Development, and Related Agencies”; see 
+“Maritime Administration.”  
+87 S.Con.Res. 14 , “A concurrent  resolution  setting forth  the congressional  budget  for the United States Government for 
+fiscal year  2022  and setting forth  the appropriate  budgetary levels for fiscal years 2023 through 2 031.” The Senate 
+agreed to S.Con.Res. 14  on August 11, 2021. The House adopted S.Con.Res. 14  on Au gust 24, 2021. For more 
+information, see CRS Report R46893, S.Con.Res. 14: The Budget Resolution for FY2022 , by Megan S. Lynch . 
+88 U.S. Congress, Senate Committee on the Budget, Concurrent Resolution on th e Budget Fiscal Year 2022 , committee 
+print, prepared by Committee on the Budget, 117th Cong., August 2021, S. Prt. 117 -16, p. 7.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   16 which is also refer red to as “The Build Back Better Act. ” H.R. 5376  would provide funding, 
+establish programs, and modify various “provisions relating to a broad array of areas, including 
+education, l abor, child care, health care, taxes, immigration, and the environment. ” Among other 
+things, the bill would provide funding for energy efficiency and weatherization projects; electric 
+vehicles and zero -emission, heavy -duty vehicles; and transit services an d “clean energy projects ” 
+in low -income communities. It also includes provisions for a methane fee for certain oil and 
+natural gas facilities. As of September 27, 2021, the House Budget Committee approved H.R. 
+5376  and reported it to the House of Representatives.  
+Members of Congress have also introduced many other proposals addressing climate change in 
+the 117th Congress. CRS identified over 750 bills in Congress.gov that address cli mate change in 
+some capacity in the 117th Congress, as of September 27, 2021.89 CRS searched for bills  by 
+identifying climate -related key words in  five broad categories : equity; land use; energy (including 
+electricity, transportation, and energy efficiency); adaptation; and finance. These categories are 
+summarized below.90 The categories are not mutually exclusive, given that many bills contain 
+provisions that fall under more than one category. In particular, CRS identified seven bills, listed 
+below, that appeared in all of the five broad categories, indicating that these bills span a 
+potentially wide range of climate change topics. (See Appendix A  for details about the search 
+methodology.)  
+ S. 283 , “National Climate Bank Act, ” sponsored by Senator Markey, and referred 
+to the Senate Committee on Environment and Public Works. Latest action: 
+Hearings held by Senate Committee on Environment and Public Works, 
+Subcommittee on Clean Air, Climate, and Nuclear Safety (April 27, 2021).   
+ S. 685 , “America ’s Clean Fut ure Fund Act, ” sponsored by Senator Durbin. Latest 
+action: Read twice and referred to the Committee on Finance (March 10, 2021) . 
+ S. 1201 , “United States Climate Leadership in International Mitigation, 
+Adaptation, and Technology Enhancement Act of 2021,” sponsored by Senator 
+Menendez. Latest action: Read twice and referred to the Committee on Foreign 
+Relations (April 19, 2021).  
+ H.R. 1512 , “Climate Leadership and Environmental Action for our Nation ’s 
+Future Act ,” or CLEAN Future Act, sponsored by Representative Pallone. Latest 
+action: Referred to  multiple House committ ees and subcommittees (March 3, 
+2021).91 
+ H.R. 1848 , “Leading Infrastructure For Tomorrow ’s America Act ,” or “LIFT 
+America Act, ” sponsored by Representative Pallone. Latest action: Referred to 
+                                                 
+89 Of the over 750 bills identified, 616 were introduced by Democrats, 9 by Independents, and 159 by Republicans; 
+these numbers refer to primary sponsors and do not reflect cosponsors.  
+90 CRS searched Congress.gov using a number of terms associated with climate change —including terms related to 
+emissions  reduction, adaptation, and equity, among others. For detailed search info rmatio n, congressional clients may 
+contact CRS Senior Research Librarian Kezee Procita.  
+91 Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and 
+Infrastructure ; Oversight and Reform ; Education and Labor ; Ways and Means ; Natural Resources ; Armed Services ; 
+Foreign Affairs ; Science, Space, and Technology ; Intelligence (Permanent Select) ; and Financial Services, for a period 
+to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the 
+jurisdiction of the committee concerned.  For more details, see   bill/117th -congress/ house -
+bill/1512/ all-actions. U.S. Climate Change Policy  
+ 
+Congressional Research Service   17 five subcommittees of the House Transportation and Infrastructure Committee 
+(March 12, 2021).92 
+ H.R. 4309 , “Clean Energy Innovation and Deployment Act of 2021,” sponsored 
+by Representative DeGette. Latest action: Referred to the Subcommittee on 
+Railroads, Pipelines, and Hazardous Materials of the House Committee on 
+Transportation and Infrastructu re (July 2, 2021).  
+ H.R. 4350 , “National Defense Authorization Act for Fiscal Year 2022, ” 
+sponsored by Representative Smith. Latest action  as of the end of September : 
+The Clerk was a uthorized to correct section numbers, punctuation, and cross 
+references, and to make other necessary technical and conforming corrections in 
+the engrossment of H.R. 4350  (September 23, 2021).  
+Thirty -four of the more than 750 legislative proposals that CRS identified received floor 
+consideration , as of September 27, 2021.93 Many of these bills fit into multiple broad topic 
+categories. Also, some bills may contain only small provisions addressing climate change , while 
+others are solely focused on a particular climate change  topic in one or more of the five 
+categories.  Two of these bills ( H.R. 3684  and H.R. 4350 ) fell into all five categories. Twenty -
+seven of the 34 fell into the energy category , and 18 of the 34 fell into the adaptation category. 
+The remainder of this section briefly describ es each category and presents the status of proposals 
+that have at least received floor consideration  as of September 27, 2021.  Table A-1 in Appendix 
+A also provides a complete list of the bills that have at least received f loor consideration.  
+Additional CRS reports examine certain legislative approaches under consideration by some in 
+the 117th Congress and prior Congresses:  
+ CRS Report R45472, Market -Based Greenhouse Gas Emis sion Reduction 
+Legislation: 108th Through 117th Congresses , by Jonathan L. Ramseur . 
+ CRS Report R46691, Clean Energy Standards: Selected Issues for the 117th 
+Congress , by Ashley J. Lawson .  
+Adaptation  
+As of September 27, 202 1, CRS identified 1 97 bills introduced in the 117th Congress that seek to 
+address adaptation in some capacity.94 This category includes proposals to address natural 
+                                                 
+92 Subcommittees are as follows: Water Resources and Environment; Coast Guard and Maritime Transportation ; 
+Highways and Transit; Economic Development , Public Buil dings, and Emergency Management; and Aviation. For 
+more details, including list of other H ouse Committees to which the bill was referred, see  
+bill/117th -congress/ house -bill/1848/ all-actions . 
+93 Floor consideration  includes House  and Senate bills that have received consideration on the floor of either chamber 
+including taking up, amending, debate, voting, passage, amendments between chambers, and conference actions. This 
+bill status does not include actions taken in c ommittees. Fo r more information, see   help/
+action -search -scope -notes .  
+94 Scientific and programmatic literature defines  adaptation  in various ways.  In addition, CRS has ob served a general 
+shift from a prevalence in federal use of the term climate change adaptation  to a rise in the term resilience  in the 
+context of climate change. Adaptation  often implies altering a system to accommodate persistent or long -term 
+anticipated changes in the climate; this may involve system alterations that may not be necessary to enhance resilience 
+to a static climate condition.  Resilience  is sometimes (but not always) considered as withstanding a hazard with a return 
+to predisturbance conditio ns, or “bouncing back.” For more information, see CRS In Focus IF11827, Climate Change: 
+Defining Adaptation and Resilience, with Implications for Policy , by Jane A. Leggett . U.S. Climate Change Policy  
+ 
+Congressional Research Service   18 disasters, extreme weather events, coastal resilience, sea level rise,  and more.  Eighteen of these 
+197 bills received at least floor consideration.  
+Energy 
+As of September 27, 202 1, CRS identified 682 bills introduced in the 117th Congress that seek to 
+address energy issues related to climate change. These bills represent the majority of the bills 
+identified in all of the searches. For the purposes of this research, CRS defined energy broadly to 
+include GHG emissions mitigation eff orts in the electricity generation, residential and 
+commercial, and transportation sectors. Examples of mitigation efforts include renewable energy 
+incentives, energy efficiency incentives, methane emission reduction efforts, and proposals to 
+alter fossil fuel production practices , among others . Bills in this category propose a wide range of 
+policy options, including carbon pricing, tax incentives, grants, R&D, and others. T wenty -seven  
+of these 682 bills received at least floor consideration . Of these, H.R. 1319  became law (The 
+American Rescue Plan Act of 2021, P.L. 117 -2).95  
+Equity  
+As of September 27, 2 021, CRS identified 104 bills introduced in the 117th Congress that seek to 
+address equity issues related to climate change.96 Bills identified in this search may include either 
+an international or a domestic focus, or both. These bills include provisions t o address issues such 
+as community resilience, “just transitions ” for the energy workforce, infrastructure, 
+environmental justice, and other topics. Seven  of these 104 bills received at least floor 
+consideration  and one, H.R. 1319 , became law (The American Rescue Plan Act of 2021, P.L. 117 -
+2).97  
+Finance  
+As of September 27, 202 1, CRS identified 48 bills introduced in the 117th Congress concerning 
+climate change and the financial industry. These bills include provisions regarding climate change 
+risk disclosure and proposals to create climate or green banks, among others. Seven  of these 48 
+bills received fl oor consideration .  
+Land Use  
+As of September 27, 202 1, CRS identified 117 bills introduced in the 117th Congress that seek to 
+address land use issues related to climate change. These bills address deforestation, propose 
+carbon sequestration efforts through forestry and agricultural practices, and include provisions 
+regarding coastal resilience and adaptatio n, among others. Ten of these 117 bills received at least 
+floor consideration .  
+                                                 
+95 The American Rescue Plan Ac t of 2021 (ARPA) is part of a series of legislative packages to address the impacts of 
+the Coronavirus Disease 2019 (COVID -19) pandemic on the economy, public health, state and local governments, 
+individuals, and businesses  (P.L. 117 -2). ARPA provisions potentially relevant to energy and climate change issues 
+include funding through FY2022 for the low -income home energy assistance program  (Title II, §2911)  and funding for 
+public transportation agencies  (Title III, §3401) . 
+96 While there is no single definition of equity  in the context of climate change impacts, many define equity  as entailing 
+“fair” treatment of people according to their different circumstances .  
+97 ARPA provided  $100 million to EPA “to address health outcome disparities from pollution and the COVID -19 
+pandemic” ( P.L. 117 -2, Title VI, §6002). For more information about EPA’s ARPA imp lementation, see EPA, 
+“American Rescue Plan (ARP),”   arp. U.S. Climate Change Policy  
+ 
+Congressional Research Service   19 Executive Branch Approach to Climate Change 
+Mitigation  
+GHG Targets  
+Executive branch p olicies and actions influencing future U.S. GHG emissions are dependent on 
+the policy obje ctives of each administration . After the United States rejoined the PA, the Biden 
+Administration communicated a new Nationally Determined Contribution (NDC) to the Paris 
+Agreement,98 which contains a new GHG target for the United States: to reduce net GHG 
+emissions by 50% -52% below 2005 levels by 2030.99 According to the Biden Administration, the 
+NDC “exceeds a straight -line path to achieve net -zero emissions, economy -wide, by no later than 
+2050.”100 For comparison, the previous U.S. NDC, released in 2015, set a target of 26% -28% 
+below 2005 levels by 2025, which President Obama had indicated was on a straight -line 
+trajectory to a reduction of 80% below 2005 levels by 2050 . The content of NDCs is nationally 
+determined and nonbinding, but it should reflect what a Party to the PA  intends to achieve .  
+Figure 2 shows historical net GHG emissions with the 2015 and 2021 NDCs and the Biden 
+Administration ’s net-zero emiss ions goal for 2050. In 2019, U.S. GHG emissions, after 
+accounting for removals by carbon sinks, were 5,769 MMTCO 2e.101 The 2019 net GHG 
+emissions are about 13% below net 2005 levels and about 4% above net 1990 levels.  
+                                                 
+98 A key requirement of the Paris Agreement (PA) is that all Parties communicate their  “Nationally Determined 
+Contributions ” (NDC) every five years,  containing a GHG reduction pledge and actions,  although  this content of an 
+NDC is not binding. As the United States has newly (again) become  a Party, the United States must submit a new 
+NDC .  
+99 The White House, “The United States o f America Nationally Determined Contribution Reducing Greenhouse Gases 
+in the United States: A 2030 Emissions Target,” April 22, 2021,   sites/ ndcstaging/
+PublishedDocuments/  
+  . (Hereinafter, 2021 U.S. NDC.)  
+100 2021 U.S. NDC, p.  22. 
+101 As previously noted, U.S. gross emissions (no t net of sinks) were 6,5 58 MMT CO 2e in 2019.  U.S. sinks removed 
+about 789 MMT  in 201 9, about 12% of gross emissions (U.S. GHG Inventory, 1990 -2019).  U.S. Climate Change Policy  
+ 
+Congressional Research Service   20 Figure 2. U.S. Net GHG Emissions (1990 -2019) and Selected Emissions T argets  
+ 
+Source: Prepared by CRS; historical emissions from EPA, Inventory of U.S. Greenhouse Gas Emissions and Sinks: 
+1990-2019, 2021 ,   ghgemissions/ inventory -us-greenhouse -gas-emissions -and-sinks. 
+Notes:  Net GHG emissions include net carbon sequestration from land use, land  use change, and forestry. This 
+involves carbon removals from the atmosphere by photosynthesis and storage in vegetation.  Million metric tons 
+of CO 2 equivalent (MMTCO 2e) is used because GHGs vary by global warming potential (GWP). GWP is an 
+index that allo ws comparisons of the heat -trapping ability of different gases over a period of time. Consistent 
+with international GHG reporting requirements, EPA ’s most recent GHG inventory (April 2021) uses the GWP 
+values presented in the  Intergovernmental Panel on Cli mate Change (IPCC ) 2007 Fourth Assessment Report  for 
+warming potential over 100 years . 
+The 2021 NDC also sets a goal to eliminate carbon emissions from the electricity sector by 2035. 
+The Biden Administration reports that it will seek to decarbonize the en ergy sector in various 
+ways, “including by cutting energy waste; shifting to carbon pollution -free electricity; electrifying 
+and driving efficiency in vehicles, buildings, and parts of industry; and scaling up new energy 
+sources and carriers. ”102 
+Announced P olicies and Rulemakings  
+In many respects, early executive orders and actions directed by the Biden Administration may be 
+viewed as reinstatement and expansion of policies of the Obama Administration on climate 
+change, with some important differences. In hi s first three months in office, President Biden 
+rejoined the PA, announced U.S. GHG reduction targets, and centralized executive branch 
+organizations to identify and coordinate climate -related actions. The remainder of this section 
+describes the Biden Administration executive orders  addressing climate change, as of September 
+2021. Appendix B  provides exa mples of additional climate -related policy actions, as summarized 
+by White House statements, as of September 2021.  
+Executive Order 13990, Protecting Public Health and the Environment and 
+Restoring Science To Tackle the Climate Crisis  
+Executive Order (E.O. ) 13990 of January 20, 2021 , outlined a federal policy  
+to improve public health and protect our environment; to ensure access to clean air and 
+water; to limit exposure to dangerous chemicals and pesticides; to hold polluters 
+                                                 
+102 2021 U.S. NDC, p. 3.  
+U.S. Climate Change Policy  
+ 
+Congressional Research Service   21 accountable, including those w ho disproportionately harm communities of color and low -
+income communities; to reduce greenhouse gas emissions; to bolster resilience to the 
+impacts of climate change; to restore and expand our national treasures and monuments; 
+and to prioritize both envir onmental justice and the creation of the well -paying union jobs 
+necessary to deliver on these goals.103  
+To this end, the order directed all executive departments and agencies to immediately review and, 
+as appropriate and consistent with applicable law, cons ider suspending, revising, or rescinding 
+actions promulgated, issued, or adopted between January 20, 2017, and January 20, 2021. The 
+order specifically listed a number of climate -related actions by agencies to be reviewed by a 
+given date, including EPA ’s methane standards for the oil and natural gas sector, EPA ’s and 
+NHTSA ’s GHG and fuel economy standards for passenger cars and light trucks, and several of 
+DOE ’s efficiency improvements and appliance standards, among others.104 Further, the order 
+directed head s of agencies, as appropriate and consistent with applicable law, to reinstate, or 
+move forward with, several other climate -related actions, including proposing new methane 
+guidelines on existing oil - and gas -sector sources, placing a temporary moratorium on the 
+implementation of the Coastal Plain Oil and Gas Leasing Program in the Arctic National Wildlife 
+Refuge, establishing an interagency working group on the social cost of GHGs, and rescinding a 
+number of executive actions , including the March 2019 permit for the Keystone XL pipeline and 
+the Council on Environmental Quality ’s 2019 draft GHG guidance on the National 
+Environmental Policy Act, among others. It also s tated that it is the Administration ’s policy “to 
+bolster resilience to  the impacts of climat e change, ” and effectively reinstated several Obama 
+Administration presidential documents related to climate change adaptation.105 
+                                                 
+103 Executive Office of the Presid ent, “ Executive Order 13990 of January 20, 2021, Protecting Public Health and the 
+Environment and Restoring Science To Tackle the Climate Crisis, ” 86 Federal Register  7037 -7043 , January 25, 2021 . 
+Quoted text from E.O. 13990, Section 1.  
+104 The full list of actions cited in the order is “Oil and Natural Gas Sector: Emission Standards for New, 
+Reconstructed, and Modified Sources Reconsideration,” 85 Federal Register  57398 (September 15, 2020), by 
+September 2021; “The Safer Affordable Fuel -Efficient (SAFE) Vehi cles Rule Part One: One National Program,” 84 
+Federal Register  51310 (September 27, 2019), by April 2021; and “The Safer Affordable Fuel -Efficient (SAFE) 
+Vehicles Rule for Model Years 2021 -2026 Passenger Cars and Light Trucks,” 85 Federal Register  24174 (A pril 30, 
+2020, Start Printed Page 70382020), by July 2021; “Energy Conservation Program for Appliance Standards: 
+Procedures for Use in New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and 
+  Equipmen t,” 85 Federal Register  8626 (February 14, 2020), with major revisions proposed by 
+March 2021 and any remaining revisions proposed by June 2021; “Energy Conservation Program for Appliance 
+Standards: Procedures for Evaluating Statutory Factors for Use in New or Revised Energy Con servation Standards,” 85 
+Federal Register  50937 (August 19, 2020), with major revisions proposed by March 2021 and any remaining revisions 
+proposed by June 2021; “Final Determination Regarding Energy Efficiency Improvements in the 2018 International 
+Energy  Conservation Code (IECC),” 84 Federal Register  67435 (December 10, 2019), by May 2021; “Final 
+Determination Regarding Energy Efficiency Improvements in ANSI/ASHRAE/IES Standard 90.1 -2016: Energy 
+Standard for Buildings, Except Low -Rise Residential Building s,” 83 Federal Register  8463 (February 27, 2018), by 
+May 2021; “National Emission Standards for Hazardous Air Pollutants: Coal - and Oil -Fired Electric Utility Steam 
+Generating Units —Reconsideration of Supplemental Finding and Residual Risk and Technology R eview,” 85 Federal 
+Register  31286 (May 22, 2020), by August 2021; “Increasing Consistency and Transparency in Considering Benefits 
+and Costs in the Clean Air Act Rulemaking Process,” 85 Federal Register  84130 (December 23, 2020), as soon as 
+possible; and “Strengthening Transparency in Pivotal Science Underlying Significant Regulatory Actions and 
+Influential Scientific Information,” 86 Federal Register  469 (January 6, 2021), as soon as possible.  
+105 For example, it effectively reinstated E.O. 13653, “Preparing  the United States for the Impacts of Climate Change,” 
+and E.O. 13693, “ Planning for Federal Sustainability in the Next Decade .” U.S. Climate Change Policy  
+ 
+Congressional Research Service   22 Executive Order 14008, Tackling the Climate Crisis at Home and Abroad  
+E.O. 14008 of January 27, 2021, ordered a whole -of-govern ment approach to addressing climate 
+change and set forth a number of directives with a view toward decisions that support meeting the 
+Administration ’s GHG reduction targets.106 The order created a new position of the Special 
+Presidential Envoy for Climate. To coordinate across agencies, E.O. 14008 established a White 
+House Office of Domestic Climate Policy (Climate Policy Office) within the Executive Office of 
+the President  led by an  Assistant to the President and National Climate Advisor.  
+E.O. 14008 also established a National Climate Task Force, which is chaired by the National 
+Climate Advisor and composed of departments and major agencies . The order instructed the 
+National Climate Task Force to organize the whole -of-government approach to  addressing 
+climate change  and to facilitate planning and implementation of federal actions. In particular, 
+E.O. 14008 instructed task force members to “prioritize action on climate change in their policy -
+making and budget processes, in their contracting a nd procurement, and in their engagement with 
+State, local, Tribal, and territorial governments; workers and communities; and leaders across all 
+sectors of our economy. ”107 
+E.O. 14008 called for additional actions, including the following:  
+ Adaptation . Federal  agencies must develop Climate Action Plans to improve 
+adaptation and resilience to climate changes. After review by the Federal Chief 
+Sustainability Officer,108 agencies must report annually on their implementation 
+of the plans .  
+ Conservation, Agriculture, and Forestry . E.O. 14008 call ed for development 
+of certain strategies and reports related to conservation, agriculture , and forestry. 
+It call ed for a strategy to create a Civilian Climate Corps to provide jobs and 
+training for conservation, restoration, re silience, carbon sequestration, and other 
+objectives.109 The E.O. call ed for a report recommend ing steps to achieve 
+conservation of at least 30% of U.S. lands and waters by 2030, and includ ed 
+mechanisms to measure progress toward that goal. A preliminary rep ort was 
+released on May 6, 2021.110 E.O. 14008  also addressed  the potential role of 
+farming in addressing climate change and reducing GHG emissions, highlighting 
+opportunities to promote carbon sequestration in soils and to source sustainable 
+bioproducts and  biofuels. It required USDA to solicit stakeholder input and issue 
+a report —within 90 days —making recommendations for a climate strategy for 
+agriculture and forestry. USDA releas ed this report on May 20, 2021.111 
+ Energy and Public Lands.  E.O. 14008 directed the Secretary of the Interior to 
+identify actions that would increase renewable energy production on public lands 
+                                                 
+106 Executive Office of the President, “ Executive Order 14008 of January 27, 2021 , Tackling the Climate Crisis at 
+Home and Abroad ,” 86 Federal Register  7619 -7633 , February 1, 2021.  
+107 E.O. 14008, §203.  
+108 A role within the White House Council on Environmental Quality . The Federal Chief Sustainability Officer is to 
+coordinate the review with the Office of Management and Budget.  
+109 For m ore information, see CRS Insight IN11654, Biden Administration Proposes New Civilian Climate Corps , by 
+Mark K. DeSantis . 
+110 DOI, USDA, DOC, and CEQ, Conserving and Restoring America the Beautiful , May 6, 2021,  
+sites/ doi.gov/ files/ report -conserving -and-restoring -america -the-beautiful -2021.pdf .  
+111 USDA, Climate -Smart Agriculture and Forestry Strategy: 90 -Day Progress Report , May 2021, 
+  sites/ default/ files/ documents/ climate -smart -ag-forestry -strategy -90-day-progress -report.pdf . U.S. Climate Change Policy  
+ 
+Congressional Research Service   23 and in offshore waters, with a goal to double offshore wind production by 
+2030.112 It also directed the Secretary to pause new oil and gas lease s on public 
+lands or offshore waters pending review and reconsideration of federal oil and 
+gas leasing and permitting practices. It directed the Secretary to consider, among 
+other things, potential climate and other impacts associated with oil and gas 
+activities on federal lands and to consider adjusting royalty rates for coal, oil, and 
+gas extracted from public lands or to take other actions to account for climate 
+costs.113  
+ Foreign Policy and National Security . E.O. 14008 increased the prioritization 
+of international actions on climate change, as compared to actions under 
+President Obama and President Trump, establish ing the policy that “climate 
+considerations shall be an essential element of United States foreign policy an d 
+national security. ”114 The Special Presidential Envoy for Climate sits on the 
+National Security Council (NSC), representing the first time the NSC includes a 
+principal fully dedicated to climate change.115 E.O. 14008 also called for relevant 
+federal agencies  to coordinate with the Special Presidential Envoy for Climate to 
+develop strategies and implementation plans for integrating climate 
+considerations into their international work.116  
+ Infrastructure . E.O. 14008 directed the Chair of the Council on Environmen tal 
+Quality (CEQ) and the Director of the Office of Management and Budget (OMB) 
+to (1) ensure that investments in federal infrastructure reduce GHGs; (2) require 
+that permitting decisions consider GHG emission impacts; and (3) identify steps 
+to accelerate clean energy and transmission projects.117  
+ Procurement . E.O. 14008 established a policy to align management of federal 
+procurement and real property to “support robust climate action. ”118 In particular, 
+it called for the National Climate Advisor and National Climate Task Force, 
+assisted by the heads of relevant federal agencies, to develop a plan that uses 
+available procurement authorities to achieve or facilitate a decarbonized 
+electricity sector by 2035 and the use of clean and zero -emission vehicles for 
+federal, state, local, and tribal government fleets.119  
+ Transition and Equity (Energy Communities) . E.O. 14008 established an 
+Interagency Working Group on Coal and Power Plant Communities and 
+Economic Revitalization  (IWG) . The order directed the IWG, which is housed 
+within DOE, to coordinate the delivery of federal resources “to revitalize the 
+economies of coal, oil and gas, and power plant communities ,” develop strategies 
+                                                 
+112 E.O. 14008, §207.  
+113 E.O. 14008, §208.  
+114 E.O. 14008, §101.  
+115 U.S. Department of State, “ John Kerry, Special Presidential Envoy for Climate ,”   biographies/
+john-kerry/ . 
+116 E.O. 14008, §103.  
+117 E.O. 14008, §213.  
+118 E.O. 14008, §204.  
+119 E.O. 14008, §205.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   24 for economic and social recovery, and evaluate “opportunities to ensure benefits 
+and prot ections for coal and power plant workers. ”120  
+ Transition and Equity (Justice40 Initiative) . E.O. 14008 established the 
+Justice40 Initiative to recommend, in consultation with disadvantaged 
+communities, how to direct certain federal investments such that 40%  would flow 
+to “disadvantaged  communities. ”121 The Administration published “initial 
+recommendations ” on July 20, 2021.122 According to the order, t he scope of those 
+federal investments includes clean energy and energy efficiency; clean transit; 
+affordable and  sustainable housing; training and workforce development; 
+remediation and reduction of legacy pollution; and critical clean water 
+infrastructure. The initiative  must publish an annual Environmental Justice 
+Scorecard.   
+Executive Order 14027 , Establishment o f the Climate Change Support Office   
+E.O. 14027  of May 7, 2021, established , within the Department of State, a temporary 
+organization called  the Climate Change Support Office (CCSO) .123 The purpose of the CCSO is 
+to support “bilateral and multilateral engagement to advance the United States ’ initiative to 
+address ” climate change.124 The CCSO is also intended to “support efforts that go beyond the 
+climate work currently carried out by the Department of State across a wide range of international 
+fora that a ddress clean energy, aviation, shipping, the Artic [sic], the ocean, sustainable 
+development, and migration. ”125  
+Executive Order 14030, Climate-Related Financial Risk  
+E.O. 14030 of May 20, 2021, directed federal agencies, including financial regulators, to analyze 
+and mitigate the risks that climate change poses to financial stability.126 It called for the 
+development of a comprehensive, government -wide strategy that identifies climate -related 
+financial risk to government programs, assets, and liabilities. It also required the strategy to 
+identify financing needs associated with climate change goals, including achieving net -zero 
+greenhouse gas  emissions for the U.S . economy by no later than 2050 . The order directed 
+financial regulators to assess climate -related  financial risks and issue a report that discusses 
+current federal efforts to incorporate climate -related risks into policies and programs. The order 
+also directed agencies to consider taking actions to protect life savings and pensions from 
+climate -relate d financial risk, and to consider updating procurement and budgetary processes to 
+account for climate -related risk analyses.  
+                                                 
+120 E.O. 14008, §218.  
+121 E.O. 14008, §223.  
+122 Memorandum from Shalanda D. Young, Acting Director, Office of Management a nd Budget; Brenda Mallory, 
+Chair of the Council on Environmental Quality; and Gina McCarthy, National Climate Advisor, to Heads of 
+Departments and Agencies, July 20, 2021,   wp-content/ uploads/ 2021/ 07/M-21-28.pdf . 
+123 Executive Office of the President, “ Executive Order 14027 of May 7, 2021, Establishment of the Climate Change 
+Support Office, ” 86 Federal Register  25947 -25948 , May 12, 2021.  
+124 E.O. 140 27, §1.  
+125 E.O. 14027, §1.  
+126 Executive Office of the President, “ Executive Order 14030 of May 20, 2021, Climate -Related Financial Risk, ” 86 
+Federal Register  27967 -27971 , May 25, 2021.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   25 Executive Order 14037, Strengthening American Leadership in Clean Cars 
+and Trucks  
+E.O. 14037 of August 5, 2021, set  a nonbinding go al for electrification in th e transportation 
+section, namely  that 50 % of all new passenger cars and light trucks sold in 2030 be zero -emission 
+vehicles, including battery electric, plug -in hybrid electric, or fuel cell electric vehicles.127 The 
+order also di rected EPA and NHTSA to begin work on future rulemakings for multipollutant 
+emissions , including for greenhouse gas emissions, and fuel economy standards for light - and 
+medium -duty veh icles beginning with model year (MY) 2027 and extending at least through  MY 
+2030.  Further, the agencies are to begin work on new nitrogen oxides standards beginning in MY 
+2027 , updated GHG emission standards for MYs 2027 -2029, and new GHG emission and fuel 
+efficiency standards beginning in MY 2030, for heavy -duty engi nes and v ehicles.  
+In conjunction with the release of E.O. 14037 , the Biden Administration proposed amendments to 
+the existing CAFE and light -duty vehicle GHG emission standards through MY 2026.128 The 
+proposal wa s not a joint rulemaking. EPA and NHTSA released their proposals separately, with 
+different MY requirements, target stringencies, and compliance flexibilities.  However, both 
+proposals would increase in stringency by approximately 25% between MYs 2023 and 2026, 
+achieving  a projected fleet -wide, sales -weighted fuel economy of roughly 48  miles per gallon in 
+2026. In addition to the amended standards , NHTSA has proposed to fully repeal the SAFE 
+Vehicles Rule, Part One: One National Program,129 and EPA has announced that it is 
+reconsiderin g the 2019 withdrawal of Cal ifornia ’s CAA preemption waiver.130 
+FY2022 Budget Request  
+E.O. 14008 identifies the budget process as another task through which agencies shall, to the 
+extent permitted by law, prioritize action on climate change .131 The President ’s FY2022 budget 
+request, rele ased May 28, 2021, included s pecific proposals aimed at  reducing  GHG emissions. 
+For example, the FY2022 budget request included an Administration initiative on infrastructure, 
+the American Jobs Plan, which would  invest in climate and clean infrastructure projects, among 
+other things .132 For more information, see Appendix B .  
+The President ’s FY2022 budget request  stated that in addition to the American Jobs  Plan, the 
+Administration proposed  an increase of over $14 billion of federal funding , compared to FY2021,  
+to support GHG reductions and increasing adaptation or resilience to climate -related impacts.133  
+                                                 
+127 Executive Office of the President, “ Executive Order 14037 of August 5, 2021, Strengthening American Leadership 
+in Clean Cars and Trucks, ” 86 Federal Register  43583 -43585 , August 10, 2021.  
+128 EPA, “ Revised 2023 and Later Model Year Light -Duty Vehicle Greenhouse Gas Emissions Standards, ” 86 Federal 
+Register 43726, August 10, 202 1; and NHTSA,  “Corporate Average Fuel Economy Standards for Model Years 2024 -
+2026 Passenger Cars and Light Trucks ,” 86 Federal Register 49602 , September 3 , 2021 . 
+129 NHTSA, “ Corporate Average Fuel Economy (C AFE) Preemption: Proposed Rule,”  86 Federal Registe r 25980, 
+May 12, 2021.  
+130 EPA, “ California State Motor Vehicle Pollution Control Standards; Advanced Clean Car Program; Reconsideration 
+of a Previous Withdrawal of a Waiver of Preemption; Opportunity for Public Hearing and Publ ic Comment,”  86 
+Federal Regist er 22421, April 28, 2021.  
+131 E.O. 14008, §203.  
+132 White House, Statements and Releases: The American Jobs Plan,  March 31, 2021, https:/  
+briefing -room/ statements -releases/ 2021/ 03/31/fact-sheet -the-american -jobs-plan/ . 
+133 Office of Management and Budget (OMB), Budget of the U.S. Government, Fiscal Year 2022 , May 28, 2021, p. 20, 
+  wp-content/ uploads/ 2021/ 05/budget_fy22.pdf . (Hereinafter, FY2022 Budget Request.) U.S. Climate Change Policy  
+ 
+Congressional Research Service   26 The President ’s FY2022 budget request included, among  other proposals, the following:134 
+ Clean Energy Projects and W orkforce Development . The President ’s FY2022 
+budget states that it would provide $2 bi llion for “welders, electricians, and other 
+skilled laborers ” to build clean energy projects.135 
+ Clean Energy, Energy Storage, and Transmission Projects in Rural 
+Communities . The President ’s FY2022 budget states that it would provide  $6.5 
+billion for lending .136 
+ Agriculture and Conservation . The President ’s FY2022 budget states that it 
+would provide  more than $300 mi llion in “new investments in the next 
+generation of agriculture and conservation, ” which would include support for 
+voluntary private lands conservation, renewable energy grants and loans, and 
+creatio n of the Civilian Climate Corps.137  
+ Efficiency Grants . The President ’s FY2022 budget states that it would provide  
+$1.7 billion for retrofits to homes, schools, and federal buildings.138 
+ Environmental Justice . The President ’s FY2022 budget states that it would 
+provide more than $1.4 billion to support “marginalized and overburdened 
+communities, ” including $936 million toward a new initiative, Accelerating 
+Environmental and Economic Justice.139 The FY2022 budget also proposes an 
+increase of more than $450 million  to support climate mitigation, resilience, 
+adaptation, an d environmental justice projects in Indian Country.140 
+ Federal Procurement  and Electric Vehicles.  The President ’s FY2022 budget 
+states that it would provide $600 million for federal zero -emission vehicles and 
+charging  infrastructure.141 
+ GHG Reductions Under Existing Authorities . The President ’s FY2022 budget 
+requests $1.8 billion for EPA programs  to address climate change , a $100 million 
+increase for air quality grants to states and tribes to implement programs and 
+reduce GHGs under the Clean Air Act, and an additional $60 million to research 
+climate change impacts on health and the environment.142 
+ International Climate Change Financing. The President ’s FY2022 budget 
+requests  $2.5 billion for international climate change programs.143 It includes a 
+                                                 
+While the budget request stated that the $14 billion incre ase was  in addit ion to the American Jobs Plan, s ome of the 
+specified climate change projects are also listed as American Jobs Plan projects.  
+134 Unless otherwise specified, the proposed spending figures were reported in the narrative to the President’s FY20 22 
+budget request.  
+135 FY2022 Budget Request, p. 20.  
+136 FY2022 Budget Request, p. 21.  
+137 FY2022 Budget Request, p. 21.  
+138 FY2022 Budget Request, p. 20.  
+139 FY2022 Budget Request, p. 21.  
+140 FY2022 Budget Request, p. 20.  
+141 FY2022 Budget Request, p. 20.  
+142 EPA’s FY20 22 budget request does not clearly state whether the $1.8 billion for climate change programs includes 
+the $100 million increase for air quality grants to state and local agencies. EPA, Fiscal Year 2022: Justification of 
+Appropriation Estimates for the Com mittee on Appropriations , May 2021, pp. i -ii,   planandbudget/
+fy-2022 -justification -appropriation -estimates -committ ee-appropriations . 
+143 FY2022 Budget Request, p. 22.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   27 $1.2 billion  contribution to the Green Climate Fund (GCF)  and $485 million to 
+support other multilateral climate initiatives, including $100 million for 
+international climate adaptation programs.144 Also the President ’s budget requests 
+about $700 million for the Departme nt of State and U.S. Agency for International 
+Development to assist developing countries in adapting to climate disruptions,  to 
+invest in clean energy , and to reduce GHG “landscape emissions. ”145 
+ Methane Reductions from Oil and Gas Systems . The President ’s FY2022 
+budget requests over $580 million to “remediate thousands of abandoned oil and 
+gas wells and reclaim abandoned mines ” in order to reduce methane leakage.146 
+ Technology Research, Development, and Demonstration . The President ’s 
+FY2022 budget requests  more than $10 billion  in “clean energy innovation across 
+nondefense agencies .”147 For example, DOE requested more than $8 billion in 
+clean energy and climate innovation  to develop “advanced ” nuclear energy 
+technologies,148 electric vehicles, “green hydrogen, ”149 and innovative 
+approaches to air conditioning and refrigeration.150 The President ’s budget 
+request includes a total of $1 billion  to establish  a new Advanced Research 
+Projects Agency for Climate (ARPA -C), and invest in the existing Advanced 
+Research Project s Agency -Energy, which would both support  high-risk funding 
+of climate change   and GHG mitigation technology 
+development.151 The Administration expects to house ARPA -C at DOE.152 
+Additional agencies contributing to ARPA -C include the depar tments of 
+Agriculture, Commerce, Homeland Security, Housing and Urban Development, 
+the Interior, and Transportation, and EPA.153 Secretary of Energy Jennifer 
+                                                 
+144 FY2022 Budget Request, p. 22.  
+145 FY2022 Budget Request, p. 22. The budget request does not define landscape emissions  but appears to refer to 
+avoiding or reducing emissions from soils and vegetation, or i ncreasing removals of CO 2 from the atmosphere by 
+photosynthesis. For example, the Administration discusses pursuing “natural climate solutions, such as improving the 
+conservation and management of carbon -rich tropical forests and other important landscapes ”; see Department of State, 
+Congressional Budget Justification: Department of State, Foreign Operations, and Related Programs , Fiscal Year 
+2022 , pp. 88 and 131,   wp-content/ uploads/ 2021/ 05/FY-2022 -State_USAID -Congressional -
+Budget -Justification.pdf . 
+146 FY2022 Budget Request, p. 21.  
+147 FY2022 Budget Request, p. 21.  
+148 The term advanced nuclear reactor  is defined by  the Energy Act of 2020 (P.L. 116 -260, Division Z)  as a fission 
+reactor that has “significant improvements”  over existing commercial reactors, and any fusion reactor. For more 
+information about advanced nuclear technology, see  CRS Report R42853, Nuclear Energy: Overview of Congressional 
+Issues , by Mark Holt . 
+149 Some refer to hydrogen  produced from fossil fuels as “blue hydrogen,”  if the separated carbon is cap tured and 
+sequestered, and “gray hydrogen”  if it is not; and hydrogen produc ed from renewable processes as “ green hydrogen. ” 
+For more information, see CRS Report R46436, Hydrogen in Electricity’s Future , by Richard J. Campbell . 
+150 DOE, Department of Energy: FY 2022 Congressional Budget Request: Budget in Brief , May 2021, p. 7, 
+  sites/ default/ files/ 2021 -05/doe-fy2022 -budget -in-brief.pdf . (Hereinafter, DOE FY2022 Budget 
+Justification.)  
+151 FY2022 Budget Request, p. 22.  
+152 DOE’s FY2022 Budget  Justification requested $200 million to establish the ARPA -C office. See DOE, FY2022 
+Congressional Budget Request , Volume 3, Part 2, p. 357, https://www .energy.gov/ sites/ default/ files/ 2021 -06/doe-
+fy2022 -budget -volume -3.2-v3.pdf . 
+153 DOE FY2022 Budget Justification, p. 15.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   28 Granholm indicated that the current proposal would initiate “a path to quadruple 
+clean energy resear ch government -wide in four years. ”154 
+ Transportation Incentives . The President ’s FY2022 budget requests a $174 
+billion investment in the electric vehicle market, including support for domestic 
+manufacturing of batteries and electric vehicles, consumer point -of-sale rebates 
+and tax incentives to purchase electric vehicles manufactured in the United 
+States, and establishment of grants and incentive programs to build a network of 
+electric vehicle chargers.155 The President ’s FY2022 budget also proposes to 
+invest $80 billion for rail improvements , including the development and adoption 
+of clean energy rail propulsion systems, such as near -zero emission diesel 
+locomotives, battery technology, and electrification .156 
+As of September 2021, congressional debate has contin ued on annual appropriations for FY2022. 
+Appropriators in each chamber have supported some of the Biden Administration ’s proposals to 
+varying degrees. For more information, see the CRS collection of reports on FY2022 
+appropriations.157  
+Congress has also con sidered climate change spending through its work on FY2022 budget 
+reconciliation. Both chambers agreed to a $3.5 trillion budget resolution, S.Con.Res. 14 , which 
+established the  congressional budget for FY2022, set budgetary levels for FY2023 -FY2031, and 
+provided reconciliation instructions to committees in the House and Senate.158 For more 
+information, see “Legislative Proposals in the 117 th Congress .”  
+Issues for Congress  
+The Biden Administration has increased the ambition of domestic GHG reduction goals compared 
+to previous Administrations, aiming to achieve “net zero ” emissions in the next three decades. It 
+has signaled it will pursue its GHG reduction goals through a variety of climate change action s, 
+including both regulatory and nonregulatory measures . Some observers have expressed 
+skepticism that the Administration ’s GHG reduction goals can be reached absent new or 
+enhanced authorities and appropriations from Congress . As the Biden Administration begins to 
+implement a whole -of-government approach to climate change, Congress may consider issues 
+concerning U.S. GHG targets, policy approaches, and funding.  
+                                                 
+154 Secretary of Energy  Jennifer  Granholm, “Statement by Secretary Granholm on the President’s FY22 Discretionary 
+Funding Request,” Energy.gov, April 9, 2021, https: //www.energy.gov/ articles/ statement -secretary -granholm -
+presidents -fy22-discretionary -funding -request . 
+155 U.S. Department of Transportation, 2022 Budget Highlights , May 28, 2021, pp. 16 -17, 
+  mission/ budget/ fiscal -year-2022 -budget -highlights . (Hereinafter, DOT FY2022 Budget 
+Justification.)  
+156 DOT FY2022 Budget Justification, pp. 13, 60 -61.  
+157 For example, see CRS Report R46857, Energy and Water Development: FY2022 Appropriations , by Mark Holt and 
+Corrie E. Clark ; CRS Report R46908, Interior, Environment, and Related Agencies: Overv iew of FY2022 
+Appropriations , by Carol Hardy Vincent ; and more at CRS, “Appropriations,”   iap/appropriations . 
+158 S.Con.Res. 14 , “A concurrent  resolution  setting forth  the congressional  budget  for the United States Government for 
+fiscal year  2022  and setting forth  the appropriate  budgetary levels for fiscal years 2023 through 2031. ” The Senate 
+agreed to S.Con.Res. 14  on August 11, 2021. The House adopted S.Con.Res. 14  on August 24, 2021. For more 
+information, see CRS Report R46893, S.Con.Res. 14: The Budget Resolution for FY2022 , by Megan S. Lynch . U.S. Climate Change Policy  
+ 
+Congressional Research Service   29 GHG Targets and International Commitments  
+The Biden Administration rejoined the PA, which seeks to hold the GHG -induced “increase in 
+global average temperature to well below 2o Celsius (C)” and to try to limit it to 1.5oC.159 In 
+particular, the PA includes a collective commitment to achieve approxim ately net -zero GHG 
+emissions in the second half of this century .160 The United States established a new pledge to 
+reduce its economy -wide net GHG emissions by 50 %-52% below the 2005 level by 2030, in a 
+required communication, the U.S. Nationally Determined C ontribution (NDC) to the PA. See 
+Figure 2 for historical net GHG emissions compared with these goals.161 The target itself is not 
+binding. The U.S. NDC also  stated that the target “exceeds a straight -line path to achieve net -zero 
+emissions, economy -wide, by no later than 2050. ”162 The pledges made in the U.S. NDC and 
+other parties ’ NDCs to 2030 are intended to support  near-term steps in a multidecadal process t o 
+avoid adverse impacts on people, economies, and the environmental systems on which societies 
+depend.   
+U.S. participation in the PA raises issues that Congress may consider, such as the ambition of the 
+U.S. NDC and assessment of other parties ’ NDCs. Membe rs may be interested in the actions 
+required to fulfill the U.S. NDC, the efficacy of such actions, and the economic and equity 
+implications of such actions. Congress may consider assessing the ambition, relative level of 
+effort, and performance of other p arties ’ GHG mitigation, adaptation, technology, and financing 
+associ ated with the PA. It could request the executive branch to provide such analysis, conduct its 
+own assessment, or rely on third parties.  
+Differences in the scope, stringency, and timing of parties ’ GHG policies may raise concerns for 
+policymakers. One concern many have is that U.S. policies  could raise U.S. prices more than the 
+prices of goods manufactured in countries with relatively less stringent climate policies , 
+potentially creating a competitive disadvantage  for some domestic businesses.  Certain businesses 
+could potentially  become less profitable, lose market share, and reduce jobs.  In addition, climate 
+policy differences between count ries could potentially lead to emissions leakage, which “occurs 
+when economic activity is shifted as a result of the emission control regulation and, as a result, 
+emission abatement achieved in one location [e.g., the United States] that is subject to emis sion 
+control regulation is [diminished] by increased emissions in unregulated locations. ”163 
+Policymakers might consider approaches to  address  these potential outcomes  in several ways. 
+One approach that has received interest in recent years is a border carbo n adjustment (BCA) 
+mechani sm. Several national governments and the EU have discussed imposing BCAs on 
+imported goods from countries that do not make similarly ambitious efforts to reduce GHG 
+emissions.  A BCA would likely apply a tariff to emission -intensiv e imported goods such as steel, 
+                                                 
+159 PA, Article 2.  
+160 In order to achieve the PA’s “long -term temperature goal,”  parties aim to make their GHG emissions peak as soon 
+as possibl e and then reduce them rapidly “ so as to achieve a balance between anthropogenic emissions by sources and 
+removals by sinks of greenhouse gases in the second half of this century”; see PA, Article 4. For more informatio n, see 
+CRS Report R44609, Climate Change: Frequently Asked Questions About the 2015 Paris Agreement , by Jane A. 
+Leggett and Richard K. Lattanzio . 
+161 The United States of America, “Nationally Determined Con tribution - Reducing Greenhouse Gases in the United 
+States: A 2030 Emissions Target,” United Nations Climate Change NDC Registry (interim), April 21, 2021, 
+https://www4.unf ccc.int/ sites/ NDCStaging/ pages/ Party.aspx? party= USA . 
+162 2021 U.S. NDC, p. 23.  
+163 EPA, Office of Air and Radiation, Tools of the Trade: A Guide to Designing and Operating a Cap and Trade 
+Program for Pollution Control , 2003, Glossary.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   30 aluminum, cement, and certain chemicals.  Also, China, South Korea, European  countries,  and 
+other s are pursu ing investment in low-GHG -emitting technologies in advanced energy, materials, 
+electronics, vehicles, and other  secto rs that they expect to provide future competitiveness  
+advantages.164 
+Transparency and verification of GHG reductions is another issue potentially of interest to 
+Congress. Some Members may be concerned about whether parties to the PA are taking actions 
+and wi ll achieve their GHG targets. Scientific advances in remote sensing systems, ground -based 
+measurements , and modeling can help the United States and other countries independently verify 
+where entities may be meeting their GHG targets, and where they may be falling behind.  
+Congress may be interested in the federal and international programs that support, or could 
+enhance support for, greater transparency of reporting, verification, and review of GHG emissions 
+and related actions.  
+U.S. Federal Policy Approache s 
+If Congress seeks to limit or remove GHG  emissions from the atmosphere , then there are a range 
+of policy options  it may consider.165 For example, options include carbon pricing, regulatory 
+approaches, investment in research and development, tax incentives,  and federal procurement 
+requirements. A number of these policy tools are currently being implemented in the United 
+States —as discussed earlier in this report —and in other countries, to varying degrees and to 
+support a range of policy objectives.   
+If there  is interest in legislating  a national  climate mitigation strategy, Congress may assess a 
+range of potential concerns and how particular policies could be designed to address them.  
+Members frequently raise questions about the potential costs of policies and alternative policy 
+designs.  Congress may  also consider options that help alleviate some of the expected negative 
+consequences from certain emissions mitigation policies. These co nsequences may include 
+economy -wide impacts, disproportionate costs to lower -income households, and job losses in 
+certain industries, among others. When examining these concerns, policymakers may w ish to 
+evaluate the tradeoff between the estimated conseque nces from mitigation policies and the 
+benefits of reducing emissions and avoiding climate change, among other considerations.   
+Many actions to reduce GHG emissions may bring co -benefits —positive effects beyond the 
+intended GHG reduction  benefits. An exampl e is reduced health care costs and mortality 
+associated with improvements in air quality (e.g., from reductions in non -GHG emissions).  
+Factors relevant to the extent of co-benefits include policy design and depth of GHG reductions.  
+Congress, in its oversig ht role, may also consider the feasibility, challenges, and economic 
+impacts associated with the Biden Administration ’s GHG targets. Some recent studies have 
+examined pathways that rely partly on federal policies to reduce domestic GHG or CO 2 emissions 
+in the next decade.166 While a synthesis of these studies is beyond the scope of this report, such 
+                                                 
+164 See, for example,  Innovation and Networks Executive Agency, “Innovation Fund,” European Commission, June 14, 
+2020,   inea/ en/innovation -fund. 
+165 For further discussion, see CRS In Focus IF117 91, Mitigating Greenhouse Gas Emissions: Selected Policy Options , 
+by Jonathan L. Ramseur et al.   
+166 For example, see (1) Nathan Hultman, Leon Clarke, and Carla Frisch, et al., “Fusing subnational with nat ional 
+climate action is central to decarbonization: the case of the United States,” Nature Communications , vol. 11 (October 
+16, 2020); (2) Nathan Hultman, Leon Clarke, and Haewon McJeon, et al., Working Paper: Charting an Ambitious U.S. 
+NDC of 51% Reductio ns by 2030 , University of Maryland Center for Global Sustainability, March 2021; (3) John 
+Larsen, Noah Kaufman, and Peter Marsters, et al., Expanding the Reach of a Carbon Tax: Emissions Impacts of U.S. Climate Change Policy  
+ 
+Congressional Research Service   31 studies highlight issues for congressional consideration, including options and incentives to 
+accelerate development and deployment of decarbonization technologie s and regulations for 
+sector -specific or economy -wide emissions targets, should that be a goal. In particular, studies 
+indicate that achieving these emission reduction targets would generally rely on, among other 
+things, increasing use of renewable energy and decreasing use of unabated coal for power 
+generation (i.e., coal -fired generation that does not use carbon capture and sequestration), 
+electrification of end -uses (i.e., replacing technologies that rely on fossil fuel combustion with 
+electrical ones), energy efficiency improvements, reductions in methane leaks in the oil and gas 
+sector, and maintenance of the carbon sink in natural and working lands.167 
+A question policymakers may consider is whether economy -wide or sectoral targets —such as 
+decarbonizatio n of the electricity sector —could be achieved under existing federal authorities as 
+well as through state and local climate change actions. Examples of existing authorities include 
+Clean Air Act regulations, energy efficiency standards, and renewable portf olio standards . Among 
+other considerations,  it is unclear whether one of these existing authorities —the Clean Air Act —
+is well-suited to the Administration ’s climate change goals  or whether it  could achieve the more 
+ambitious targets supported by some Membe rs and stakeholders . Members supporting 
+decarbonization might consider legislative options, should existing authorities appear inadequate 
+to achieve emission reduction objectives. As discussed in “Legislative Proposals in the 117 th 
+Congress ,” Congress continues to deliberate new authorities and spending to set and achieve 
+specific GHG reductions, provide tax and other financial incentives to businesses and  consumers, 
+and set regulatory performance standards (including clean energy standards), among other policy 
+options.  
+Climate Change Funding  
+Congress may consider how federal funding, including appropriations, might influence the 
+Administration ’s climate c hange actions. Congress is currently deliberating FY2022 
+appropriations and budget reconciliation options. As discussed in this report, President Biden 
+directed agencies to prioritize action on climate change through the budget process, among other 
+things,  and his Administration ’s FY2022 budget request included specific proposals aimed at 
+reducing GHG emissions. T he Administration ’s American Jobs Plan  appear ed to anticipate that 
+hundreds of billions of dollars in new federal funding and tax incentives would  stimulate 
+technological advance ments and  enhance competitiveness of low - or no -GHG emitting 
+technologies, and hence facilitate a long -term transition to a substantially modified and net -zero-
+emissions economy.  Senate Majority Leader Schumer released a let ter to colleagues with 
+preliminary estimates of reductions from proposed provisions in the Infrastructure Investment and 
+Jobs Act and budget reconciliation.168 While the bills have not been enacted as of September 
+2021, he reported that, with  
+the combined im pact of both the Infrastructure Investment and Jobs Act and the Budget 
+Resolution’s instructions, we are on track to reduce U.S. emissions to approximately 45 
+percent beneath 2005 levels by 2030. When you add Administrative actions being planned 
+                                                 
+Pricing Combined with Additional Climate Actions , Center on Global Energy Policy at Columbia University and 
+Rhodium Group, October 20, 2020; (4) Mei Yuan, Alex Barron, and Noelle Selin, et al., Meeting Potential New U.S. 
+Climate Goals , MIT Joint Program on the Science and Policy of Climate Change, Repor t 351, April 2021; and (5) Eric 
+Larson, Chris Greig, and Jesse Jenkins, et al., Net-Zero America: Potential Pathways, Infrastructure, and Impacts , 
+Princeton University, Interim Report, December 15, 2020,   the-report . 
+167 Ibid. 
+168 Senate Majority Leader Charles E. Schumer, “Dear Colleague,” August 25, 2021 , 
+ imo/media/doc/Dear%20Colleague%2008.25.21%20(FINAL).pdf . U.S. Climate Change Policy  
+ 
+Congressional Research Service   32 by the Bid en Administration and many states - like New York, California, and Hawaii - we 
+will hit our 50 percent target by 2030.  
+The federal government has long supported research and development efforts beyond those the 
+private sector pursues, with investments in, among other areas , science, technology development, 
+and economic research.  Federal research funding could help shape the direction and pace of 
+technological developments that many expect could achieve significant reductions in emissions, 
+or could lower cos ts, compared with current commercial technologies. Some advocate that further 
+innovation would be useful, and in some instances required, to abate emissions from the industrial 
+sector.169 Congress may look to provide funding for alternative technologies, whe ther through 
+research and development, or infrastructure planning. Congress may also consider options to 
+incentivize consumer purchases, either through tax incentives, mandates , or government 
+procurement policies .  
+Members of Congress have expressed differ ing viewpoints concerning  the scope of IIJA and the 
+Build Back Better Act and each proposal ’s spending priorities.170 Some Members of Congress 
+have called for greater spending on climate change and social programs, such as education and 
+health care. Other Me mbers of Congress have raised concerns that total proposed spending levels 
+are too high and that these legislative proposals invest in climate change and social programs at 
+the expense of programs, such as roads and bridges, they regard as higher prioritie s.  
+Finally,  Congress appropriat es funds  for the State  Department ’s and Department of the Treasury ’s 
+contributions to foreign assistance. Further, Congress has sole authority to lay tariffs and regulate 
+foreign commerce —the most direct way being through Tr ade Promotion Authority. That is, it is 
+the authority that Congress uses to establish trade -negotiating objectives. The most recent 
+authority  (P.L. 114 -26) expire d on July  1, 2021 . Congress may consider whether any new 
+authority should be written to include objectives on climate.  
+                                                 
+169 For further information on the potential role of research and development, see GHG -related sections in CRS Report 
+R46787, Science and Technology Issues in the 117th Congress , coordinated by Frank Gottron and Brian E. Humphreys . 
+170 Members of Congress have also disagreed about various other provisions of the legislative proposals, such as the tax 
+provisions in the Buil d Back Better Act.  U.S. Climate Change Policy  
+ 
+Congressional Research Service   33 Appendix A.  Climate Change Legislation in the 
+117th Congress: Search Methodology  
+The “Legislative Proposals in the 117 th Congress ” section of this report identified bills by 
+running a number of searches in Congress.gov, an authoritative and up -to-date resource for 
+legislation, which is updated daily when Cong ress is in session. Initial searches were run in May 
+2021 and subsequent searches were run to update legislation until September 27, 2021.  CRS 
+compiled a list of search terms related to adaptation, greenhouse gas emissions (including sources 
+of emissions b y economic sector), climate change mitigation (including technologies), climate 
+change impacts, climate change economics, climate change finance, and research and 
+development. CRS also sought to include terms relevant to climate change policy at an 
+interna tional scale (such as potential U.S. participation in international agreements or bilateral or 
+multilateral funding assistance). CRS grouped these terms within five broad categories: 
+adaptation, energy, equity, finance, and land use. Each of the five searc hes was run in the full text 
+of all legislation introduced in the 117th Congress, and results were downloaded into Excel for 
+analysis.171 Individual search results were tagged with the broad topic tag associated with the 
+search from which they resulted (i.e. , “adaptation ” or “finance ”). Duplicate bills (i.e., bills that 
+were identified in more than one search) were assigned a broad topic tag for each search in which 
+they were identified, and then all but one listing was removed from analysis. Amendments and 
+resolutions were also removed from the spreadsheet. CRS identified a number of bills as not 
+relevant —meaning these bills contained search terms but did not translate to relevant 
+provisions —by reviewing titles, summaries (where available), and full text. CRS  removed these 
+bills from consideration. CRS also included all relevant related and companion bills (as identified 
+in Congress.gov) in analysis. Additional searches were run using the “introducedDate: ” function 
+in Congress.gov to identify both newly introd uced legislation as well as updated bill status and 
+other metadata that may have changed since the prior search.  
+Bill Status Table  
+Table A-1 was created by using Congress.gov ’s “Status of Legislation ” filter in each set of search 
+results. Each set of results was limited to the following statuses: Became Public Law, Passed Both 
+Chambers, Passed One Chamber, or Floor Consideration. Thirty -four of the more th an 750 
+legislative proposals that CRS identified progressed beyond introduction in the legislative 
+process, as of September 27 , 2021 , and are identified in Table A-1. Many of these bills fit into 
+multiple broad topic categories. Also,  some bills may contain relatively  small provisions 
+address ing climate change , while others are solely focused on that topic in one or more sectors. 
+Twenty -seven  of the 34 bills fell within the energy category , and 18 of the 34  fell within the 
+adaptation category.  Table A-1 reflects the September 27, 2021, search, the most rece nt search 
+conducted for this report . 
+                                                 
+171 Search results available at the following links: Adaptation: https://go.usa.gov/ xMhxN ; Energy: https://go.usa.gov/
+xMhxR ; Equity: https://go.usa.gov/ xMhxn ; Finance: https://go.usa.gov/ xMhxQ ; and Land use: https://go.usa.gov/
+xMhxU . U.S. Climate Change Policy  
+ 
+Congressional Research Service   34 T able A-1. Selected Climate Change Legislation in the 117th Congress  
+Status of bills that have at least received floor consideration  
+Bill No.  Title  Broad Sector 
+Tag(s)  Vote Information 
+(date)  Last Action if not 
+vote (date)  
+S. 914   Drinking Water and 
+Wastewater 
+Infrastructure Act 
+of 2021  Adaptation, energy, 
+equity  Passed Senate 89 -2 
+(4/29/21); Record  
+Vote Number 178  Committee report 
+filed; Report No. 
+117-20 (5/10/2021)  
+S. 1251   Growing Climate 
+Solutions Act of 
+2021 Energy, land use  Passed Senate 92 -8 
+(6/24/21); Record 
+Vote Number 251  Received in House 
+and held at desk 
+(6/24/21)  
+S. 1260  United States 
+Innovation and 
+Competition Act of 
+2021 Adaptation, energy, 
+finance  Passed Senate 68 -32 
+(5/28/21); Record  
+Vote Number 226   
+S. 2093   For the People Act 
+of 2021  Adaptation, energy  Cloture not invoked 
+(6/22/21); Record 
+vote 246  Cloture motion on 
+the motion to 
+proceed to the 
+measure withdrawn 
+by unanimous 
+consent in Senate  
+(9/15/2021)  
+H.R. 1   For the People Act 
+of 2021  Adaptation, energy  Passed House 220 -
+210 (3/3/21); Roll 
+call vote number 62  Received in the 
+Senate (3/11/21)  
+H.R. 447   National 
+Apprenticeship Act 
+of 2021  Adaptation, energy, 
+equity  Passed House 247 -
+173 (2/5/21); Roll 
+call vote number 31  Received in Senate 
+and referred to 
+Committee on 
+Health, Education, 
+Labor, and Pensions 
+(2/25/21)  
+H.R. 610   San Francisco Bay 
+Restoration Act  Adaptation, energy  Passed/agreed to in 
+House under 
+suspension of the 
+rules (6/15/2021)  Received in Senate 
+and referred to 
+Committee on 
+Environment and 
+Public Works 
+(6/16/2021)  
+H.R. 803   Protecting 
+America’s 
+Wilderness and 
+Public Lands Act  Energy, equity, land 
+use Passed House 227 -
+200 (2/26/21); Roll 
+call vote number 45  Received in Senate 
+and referred to 
+Committee on 
+Energy and Natural 
+Resources 
+(3/2/2021)  
+H.R. 1144   Promoting United 
+Government Efforts 
+to Save Our Sound 
+Act Adaptation, energy  Passed/agreed to in 
+House under 
+suspension of the 
+rules (6/15/2021)  Received in Senate 
+and referred to 
+Committee on 
+Environment and 
+Public Works 
+(6/16/2021)  U.S. Climate Change Policy  
+ 
+Congressional Research Service   35 Bill No.  Title  Broad Sector 
+Tag(s)  Vote Information 
+(date)  Last Action if not 
+vote (date)  
+H.R. 1157   Department of 
+State Authorization 
+Act of 2021  Energy  Passed/agreed to in 
+House under 
+suspension of the 
+rules (5/18/2021)  Received in Senate 
+and referred to 
+Committee on 
+Foreign Relations 
+(5/19/2021)  
+H.R. 1187   Corporate 
+Governance 
+Improvement and 
+Investor Protection 
+Act Adaptation, energy, 
+finance  Passed House 215 -
+214 (6/16/21); Roll 
+call vote number 
+169 Received in Senate 
+and Referred to 
+Committee on 
+Banking, House, and 
+Urban Affairs 
+(6/17/2021)  
+H.R. 1319  American Rescue 
+Plan Act of 2021  Energy, equity  Many votes held ; 
+see Congress.gov 
+for details.  Became P.L. 117 -2 
+(3/11/21)  
+H.R. 1374   Enhancing State 
+Energy Security 
+Planning and 
+Emergency 
+Prepared ness Act of 
+2021 Energy  Passed House 389 -
+21 (6/22/2021); Roll 
+call vote number 
+173 Received in Senate 
+and referred to 
+Committee on 
+Energy and Natural 
+Resources 
+(6/23/2021)  
+H.R. 1447   COAST Research 
+Act of 2021  Energy  Passed under 
+suspension of the 
+rules (5/18/21)  Received in Senate 
+and referred to 
+Committee on 
+Commerce, 
+Science, and 
+Transportation 
+(5/19/2021)  
+H.R. 1490   504 Modernization 
+and Small 
+Manufacturer 
+Enhancement Act of 
+2021 Energy  Passed House 400 -
+16 (4/15/2021); Roll 
+call vote number 
+116 Received in Senate 
+and referred to 
+Committee on 
+Small Business and 
+Entrepreneurship 
+(4/19/2021)  
+H.R. 1603   Farm Worker 
+Modernization Act 
+of 2021  Adaptation, energy  Passed House 247 -
+174 (3/18/21); Roll 
+call vote number 93  Received in the 
+Senate and referred 
+to Committee on 
+Judiciary 
+(3/22/202 1) 
+H.R. 2225   National Science 
+Foundation for the 
+Future Act  Adaptation, energy  Passed House 345 -
+67 (6/28/2021); Roll 
+call vote number 
+186 Received in Senate 
+and referred to 
+Committee on 
+Health, Education, 
+Labor, and Pensions 
+(7/12/2021)  
+H.R. 2467   PFAS Action Act of 
+2021 Energy  Passed House 241 -
+183 (7/21/2021); 
+Roll call vote 
+number 217  Received in Se nate 
+and referred to 
+Committee on 
+Environment and 
+Public Works 
+(7/22/2021)  U.S. Climate Change Policy  
+ 
+Congressional Research Service   36 Bill No.  Title  Broad Sector 
+Tag(s)  Vote Information 
+(date)  Last Action if not 
+vote (date)  
+H.R. 2471   Haiti Development, 
+Accountability, and 
+Institutional 
+Transparency 
+Initiative Act  Adaptation, e nergy  Passed/agreed to in 
+House under 
+suspension of the 
+rules (6/29/21)  Received in Senate 
+and referred to 
+Committee on 
+Foreign Relations 
+(4/21/2021)  
+H.R. 2533   NEAR Act of 2021  Adaptation, energy  Passed/agreed to in 
+House under 
+suspension of the 
+rules (5/18/21)  Received in Senate 
+and referred to 
+Committee on 
+Commerce, 
+Science, and 
+Transportation 
+(5/19/2021)  
+H.R. 2931   Enhancing Grid 
+Security through 
+Public -Private 
+Partnership Act  Energy  Passed/agreed to in 
+House by voice 
+vote (7/19/2021)  Received in Senate 
+and referred to 
+Committee on 
+Energy and Natural 
+Resources 
+(7/20/2021)  
+H.R. 3119   Energy Emergency 
+Leadership Act  Energy  Passed/agreed to in 
+House by voice 
+vote (7/19/2021)  Received in Senate 
+and referred to 
+Committee on 
+Energy and Natural 
+Resources 
+(7/20/2021)  
+H.R. 3593   Department of 
+Energy Science for 
+the Future Act  Adaptation, energy  Passed House 351 -
+68 (6/28/2021); Roll 
+call vote number 
+187 Received in Senate 
+and referred to 
+Committee on 
+Energy and Natu ral 
+Resources 
+(7/12/2021)  
+H.R. 3684   Infrastructure 
+Investment and Jobs 
+Act Adaptation, energy, 
+equity, finance  Passed Senate 69 -30 
+(8/10/2021); Record 
+vote number 314  House – Postponed 
+Proceedings 
+(9/28/2021)  
+H.R. 4350   National Defense 
+Authorization Act 
+for Fiscal Year 2022  Adaptation, energy, 
+equity, finance  Passed House 316 -
+113 (9/23/2021); 
+Roll call  vote 
+number 293   
+H.R. 4373   Department of 
+State, Foreign 
+Operations, and 
+Related Programs 
+Appropriations Act, 
+2022 Energy, finance  Passed House 217 -
+212 (7/28/2021); 
+Roll call vote  
+number 243  Received in Senate 
+(7/29/2021)  U.S. Climate Change Policy  
+ 
+Congressional Research Service   37 Bill No.  Title  Broad Sector 
+Tag(s)  Vote Information 
+(date)  Last Action if not 
+vote (date)  
+H.R. 4502   Labor, Health and 
+Human Services, 
+Education, 
+Agriculture, Rural 
+Development, 
+Energy and Water 
+Development, 
+Financial Services 
+and General 
+Government, 
+Interior, 
+Environment, 
+Military 
+Construction, 
+Veterans Affairs, 
+Transportation, and 
+Housing and Urban 
+Development 
+Appropriations Act, 
+2022 Adaption, energy, 
+equity  Passed House 219 -
+208 (7/29/2021); 
+Roll call vote 
+number 247  Received  in Senate 
+(8/3/2021)  
+Source:  CRS, compiled from Congress.gov.  
+Notes:  This table provides a complete list of the bills that have at least received floor consideration, and was 
+last updated September 27, 2021. “Floor consideration” includes House and Senat e bills that have received 
+consideration on the floor of either chamber including taking up, amending, debate, voting, passage, amendments 
+between chambers, and conference actions. This bill status does not include actions taken in committees. For 
+more inf ormation , see   help/action -search -scope -notes .  
+Search Limitations  
+These searches reflect the best available information from Congress.gov within the specifie d time 
+frame, but there are some limitations. First, there are many ways to define, consider, and address 
+climate change. Legislative proposals may specify climate change as an objective. Other 
+proposals that may be considered directly or indirectly releva nt to climate change may not 
+expressly state climate change as an objective. Some bills may contain only small provisions that 
+met search criteria, while others are solely focused on addressing climate change in one or more 
+sectors. Stakeholders may also d isagree about the extent to which proposals may be relevant to 
+climate change. CRS designed broad searches in an effort to capture the many ways that 
+Members of Congress and stakeholders have considered climate change. Given the broad scope 
+and variability  of the subject matter, these and any other searches for “climate change legislation ” 
+should be viewed as illustrative rather than a definitive record.  
+Second, the search results should be viewed as a snapshot in time. Bills typically change as they 
+move t hrough the legislative process, both in content and for procedural reasons. In some 
+instances, the searches may not have captured all such revisions. As previously noted, the 
+Congress.gov database is updated daily when Congress is in session, but the full text of different 
+bill versions and additional metadata may be added over time, affecting search results.  
+ U.S. Climate Change Policy  
+ 
+Congressional Research Service   38 Appendix B.  Selected Additional Actions in the 
+Executive Branch  
+The Biden Administration has begun implementing its whole -of-government approach to 
+addressing climate change. This appendix  identifies examples of climate -related policy actions as 
+summarized by the following White Hou se statements, in alphabetical order,  as of September 
+2021. The actions and proposals summarized in this section do not constitute a comprehensive list 
+of efforts by the Biden Administration.  
+ American Jobs Plan . The Administration ’s American Jobs Plan proposed  a total 
+of $2 trillion in federal funding  and outline d many incentives and investments in 
+U.S. jobs, infrastructure, and market competitiveness . The plan target ed 40% of 
+the benefits of climate and clean infrastructure investments to disadvantaged 
+communities . The plan also proposed to invest in rural communities and 
+communities affected  by the market -based transition to clean energy, among 
+other climate change initiatives.172 It called on Congress to fund $35 billion “to 
+achieve technology breakthroughs that address the climate crisis and position 
+America as the global leader in clean energy technology and clean energy 
+jobs. ”173 Congressional deliberations subsequently focused on a different but 
+related infrastructure plan, known as the “Bipartisan Infrastructure Framework ” 
+(BIF), a $1.2 tril lion plan that would authorize $579 billion in new spending on 
+transportation infrastructure, power infrastructure, climate resiliency, and other 
+initiatives.174 A group of Senators reached agreement with President Biden on the 
+BIF and drafted legislation.  See “Legislative Proposals in the 117 th Congress ” 
+for more information.  
+ Building Modernization P roposals.  There are a number of proposals to fund 
+building modernization. For example, CEQ, DOE , the General Services 
+Administration (GSA) , and EPA announced $30 million in new federal 
+investments to modernize and upgrade  the nation ’s residential and commercial 
+buildings to be affordable, resilient, accessible, energy efficient, and 
+electrified.175 As another example,  DOE requested an increase of $387 million 
+for the Federal Energy Efficiency Fund to improve the climate resilience of 
+federal buildings .176 
+                                                 
+172 White House, Statements and Releases: The American Jobs Plan,  March 31, 2021,  
+briefing -room/ statements -releases/ 2021/ 03/31/fact-sheet -the-amer ican-jobs-plan/ . (Hereinafter, American Jobs Plan 
+Fact Sheet.)  
+173 American Jobs Plan Fact Sheet . 
+174 Sen. Mitt Romney, “Senators’ Joint Statement and Framework on Bipartisan Infrastructure Deal,” press release, 
+June 24, 2021,   senators -joint-statement -framework -bipartisan -infrastructure -deal. See 
+also Sen. Mark R. Warner, “Warner, President Biden & Senate Colleagues An nounce Bipartisan Agreement on 
+Infrastructure,” press release, June 24, 2021, https://www.warner. senate.gov/ public/ index.cfm/ 2021/ 6/warner -
+president -biden -senate -colleagues -announce -bipartisan -agreement -on-infrastructure . 
+175 White House, “Biden Administration Accelerates Efforts to Create Jobs Making American Buildings More 
+Affordable, Cleaner, an d Resilient ,” fact sheet, May 17 , 2021,   briefing -room/ statements -
+releases/ 2021/ 05/17/fact-sheet -biden -administration -accelerates -efforts -to-create -jobs-making -american -buildings -
+more -affordable -cleaner -and-resilient/ . 
+176 DOE, FY2022 Congressional Budget Requ est, Volume 3, Part 1, p. 198 ,   sites/ default/ files/
+2021 -06/doe-fy2022 -budget -volume -3.1-v3.pdf . U.S. Climate Change Policy  
+ 
+Congressional Research Service   39  Climate Innova tion Working Group Formation . The Administration 
+announced a Climate Innovation Working Group and discussed funding to 
+support “transformational low -carbon energy technologies. ”177 
+ Coal and Power Plant Community Economic Revitalization Plan . The 
+Administrati on released a report  that identifies communities affected by coal 
+mine and power plant closures (“energy communities ”) that should be prioritized 
+for federal investment, details  existing resources for these communities , and 
+provides recommendations for fur ther actions.178 
+ Electric Vehicle Charging Infrastructure Plan . The departments of 
+Transportation and Energy, and the GSA,  announced a suite of actions intended 
+to accelerate the deployment of electric vehicles and charging stations.179 
+ Financial Sector Oversight  (Assessing Climate Risks and Disclosures).  U.S. 
+financial regulators and the Biden Administration have taken public steps toward 
+focusing financial regulatory attention on assessing climate risks to the financial 
+system, including whether, and ho w, current standards for disclosure of climate 
+risks are being followed and how they might be updated. The Biden 
+Administration is reportedly working on a government -wide strategy, under an 
+upcoming executive order, to better assess climate -related risks f or public and 
+private financial assets.180 Several key financial agencies have announced they 
+are looking at updating existing climate -related risk guidance. Treasury Secretary 
+Janet Yellen flagged climate change as “an existential threat ” and the biggest 
+emerging risk to the health of the U.S. financial system, at the first meeting of the 
+Financial Stability Oversight Council (FSOC), established after the 2008 
+financial crisis so the heads of financial agencies could coordinate regarding 
+emerging risks.181 She reiterated in a July 11, 2021 , speech that the FSOC would 
+assess the potential risk climate change may pose to the financial stability of the 
+United States, and would complement the SEC ’s work on improved financial 
+disclosures of climate -related risks.182 
+                                                 
+177 White House, “Biden -Harris Administration Launches American Innovation Effort to Create Jobs and Tackle the 
+Climate Crisis, ” press release, February 11, 2021,   briefing -room/ statements -releases/
+2021/ 02/11/biden -harris -administration -launches -american -innovation -effort -to-create -jobs-and-tackle -the-climate -
+crisis/. 
+178 White House, “Biden Administration Outlines Key Resources to Invest in Coal and Power Plant Community 
+Economic Revitalization, ” fact sheet,  April 23, 2021,   briefing -room/ statements -releases/
+2021/ 04/23/fact-sheet -biden -administration -outlines -key-resources -to-invest -in-coal-and-power -plant -community -
+economic -revitalization/ . See also National Energy Technology Laboratory, Initial Report to the President on 
+Empowering Wor kers Through Revitalizing Energy Communities , April 2021,   IWGInitialReport .  
+179 White House, “Biden Administration Advances Electric Vehicle Charging Infrastructure, ” fact sheet,  April 22, 
+2021,   briefing -room/ statements -releases/ 2021/ 04/22/fact-sheet -biden -administration -
+advances -electric -vehicle -charging -infrastructure/ . 
+180 The strategy is to be drafted by the National Economic Council and National Climate Advisor Gina McCarthy, in 
+coordination with Treasury Secretary Janet Yellen a nd the Office of Management and Budget , according to media 
+reports. See, for example, Jenny Leonard, “ Biden Plans to Order Climate Risk Strategy for Financial Assets ,” 
+Bloomberg News , April 8, 2021, at   news/ articles/ 2021 -04-08/biden -plans -to-order -
+climate -risk-strategy -for-financial -assets . See also  Climate 21 Project, Transition Memo ,  
+documents/ C21_OMB.pdf . 
+181 Victoria Guida, “Janet Yellen: Climate Change Poses ‘Existential Threat’ To Financial Markets,” Politico , March 
+31, 2021,   news/ 2021/ 03/31/yellen -climate -change -fsoc-478769 .  
+182 Remarks by Secretary of the Treasury Janet L. Yellen at the Venice International Conference on Climate, July 11, U.S. Climate Change Policy  
+ 
+Congressional Research Service   40  Financial Sector Oversight  (Federal Reserve). On January 25, 2021, the 
+Federal Reserve announced the creation of an internal Supervision Climate 
+Committee (SCC) to “strengthen the Federal Reserve ’s capacity to identify and 
+assess financial risks from climat e change ” and to “develop an appropriate 
+program to ensure the resilience of supervised firms to climate -related financial 
+risks. ”183 In March 2021, the Federal Reserve announced the creation of a 
+Financial Stability Climate Committee (FSCC) to identify, ass ess, and address 
+climate -related risks to financial stability from a macro -prudential perspective.184 
+On July 11, 2021, Fed Vice Chair for Supervision Randall Quarles flagged the 
+Financial Stability Board ’s (FSB ’s) publication of a roadmap for addressing 
+climate -related financial risks.185 The FSB roadmap is aimed at supporting 
+international coordination of climate disclosures for standard -setting bodies 
+internationally ,186 although Quarles did not specifically address any additional 
+steps by the U nited States or the Federal Reserve. On December 15, 2020, the 
+Federal Reserve Board joined the Network of Central Banks and Supervisors for 
+Greening the Financial System (NGFS), a group of central banks and supervisory 
+authorities from around the world developing best p ractices on climate risk 
+management for the financial sector.187 
+ Financial Sector Oversight  (Securities Disclosures). On July 28, 2021, 
+Securities and Exchange Commission ( SEC) Chair Gary Gensler said he had 
+requested  that the SEC ’s staff develop a mandatory  climate risk disclosure rule 
+proposal for the commission ’s consideration by the end of 2021.188 He noted that 
+such mandatory disclosures should be “consistent and comparable, ” enabling 
+investors to compare both qualitative and quantitative metrics across 
+companies.189 He suggested q uantitative disclosures could include metrics related 
+to greenhouse gas emissions, financial impacts of climate change, and progress 
+toward climate -related goals.190 In February 2021, the former Acting Chair of the 
+SEC, Allison Herren  Lee, directed the SEC ’s Division of Corporation Finance to 
+                                                 
+2021 ,   news/ press -releases/ jy0271 . 
+183 Federal Reserve Bank of New York, “Kevin Stiroh to Step Down as Head of New York Fed Supervision to Assume 
+New System Leadership Role at Board of Governors on Climate,” press release, January 25, 2021, 
+  newsevents/ news/ aboutthefed/ 2021/ 20210125 . 
+184 Federal Reserve Board Governor Lael Brainard, “Financial Stability Implications of Climate Change,” speech at 
+“Transform Tomorrow Today” Ceres 2021 Conferen ce, Boston, March 23, 2021,  
+newsevents/ speech/   . 
+185 Federal Reserve Vice Chair for Supervision Randal K. Quarles , “Disclosures and Data: Building Strong 
+Foundations for Addressing Climate -Related Financial Risks ,” speech at the Venice International Conference on 
+Climate Change, Venice, Italy, July 11, 2021 ,   newsevents/ speech/
+  . 
+186 See Financial Stability Board, “FSB Roadmap For Addressing Climate -Related Financial Risks,”  July 7, 2021, 
+  2021/ 07/fsb-roadmap -for-addressing -climate -related -financial -risks/ . 
+187 Federal Reserve Board, “Federal Reserve Board Announces It Has Formally J oined the Network of Central Bank s 
+and Supervisors for Greening the Financial Sys tem, or NGFS, as a M ember ,” press release, December  15, 2020 , 
+  newsevents/ pressreleas   . 
+188 SEC Chair Gary Gensler, “ Prepared Remarks Before the Princip les for Responsible Investment ‘ Climate and Global 
+Financial Markets’  Webinar ,” July 28, 2021, Washington, DC,   news/ speech/ gensler -pri-2021 -07-
+28. (Hereinafter, Gensler, “Prepared Remarks.”)  
+189 Gensler, “Prepared Remarks.”  
+190 Gensler, “Prepared Remarks.”  U.S. Climate Change Policy  
+ 
+Congressional Research Service   41 enhance its focus on climate -related disclosure in public company filings.191 She 
+noted that the SEC would assess compliance related to disclosure of climate 
+change risks under the SEC ’s existing 20 10 guidance, and would start updating 
+that 2010 SEC guidance.192 The SEC also announced in March 2021 the creation 
+of a “Climate and ESG [Environmental, Social and Governance] Task Force ” 
+within the SEC ’s Division of Enforcement to identify ways to proactive ly 
+identify ESG -related misconduct.193 
+ International Climate Finance Plan . U.S. agencies that work with development 
+partners (e.g., the departments of State and the Treasury, U.S. Agency for 
+International Development, the Millennium Challenge Corporation) announced a 
+plan containing directives to (1) mobilize financial resources, both public and 
+private, to assist developing countries to reduce and/or avoid greenhouse gas 
+emissions and build resilience and adapt to the impacts of climate change; (2) 
+scale b ack public investments in carbon -intensive fossil -fuel-based energy; (3) 
+make international capital flows consistent with low -emissions, climate -resilient 
+pathways; and (4) better define, measure, and report U.S. international climate 
+finance.  The plan sta tes an intention to double, by 2024, the U.S. annual public 
+climate finance to developing countries, including tripling its annual adaptation 
+finance, “relative to the average level during the second half of the Obama 
+Administration. ”194 According to the U.S . Government Accountability Office , the 
+average annual funding for climate change international assistance over t he 
+period 2013 -2016 was $1.177 b illion.195 
+ Offshore Wind Energy Plan . The U.S. departments of the Interior, Energy, 
+Commerce, and Transportation announced new leasing, funding, and 
+development goals to accelerate and deploy offshore wind energy.196 
+ Paris Agreement Accession . The Administration accepted on behalf of the 
+United States the Paris Agreement, the second major subsidiary agreement for 
+international cooperation under the United Nations Framework Convention on 
+Climate Change .197  
+                                                 
+191 Acting SEC Chair Al lison Herren Lee , “Statement on the Review of Climate -Related Disclosure ,” February 24, 
+2021,   news/ public -statement/ lee-stateme nt-review -climate -related -disclosure . 
+192 Acting SEC Chair Allison Herren Lee , “Statement on the Review of Climate -Related Disclosure ,” February 24, 
+2021,   news/ public -statement/ lee-statement -review -climate -related -disclosure . Since total market 
+capitalization of the U.S. stock market at the end of 2020 was roughly $50.8 trillion, the financial implications of 
+adequate disclosure of risks from climate change for equity investors is potentially large. The $50.8 trillion figure 
+represents the total market cap italization of all U.S. -based public companies listed on the  New York Stock Exchange, 
+Nasdaq Stock Market , or OTCQX U.S. Market , according to Siblis Research, “ Total Market Value of U.S. Stock 
+Market ,”   data/ us-stock -market -value/ . 
+193 U.S. Securities and Exchange Commission (SEC), “ SEC Announces Enforcement Task Force Focused on Climate 
+and ESG Issues ,” press release 2021 -42, March 4, 2021,   news/ press -release/ 2021 -42. 
+194 White House, “Executive Summary: U.S. International Climate Finance Plan, ” April 22, 2021, 
+  briefing-room/ statements -releases/ 2021/ 04/22/executive -summary -u-s-international -
+climate -finance -plan/ . 
+195 U.S. Government Accountability Office, Climate Change: Analysis of Reported Federal Funding , GAO -18-223, 
+April 2018, p. 84,   products/ gao-18-223. 
+196 White House, “Biden Administration Jumpstarts Offshore Wind Energy Projects to Create Jobs, ” fact sheet,  March 
+29, 2021,   briefing -room/ statements -releases/ 2021/ 03/29/fact-sheet -biden -administration -
+jumpstarts -offshore -wind -energy -projects -to-create -jobs/ . 
+197 White House, “ Paris Climate Agreement, Acceptance on Behalf of the United States of America, ” January 20, 2021, U.S. Climate Change Policy  
+ 
+Congressional Research Service   42  President Biden ’s Leaders Summit on Climate . The Administration convened 
+a summit with “heads of state and government, as well as leaders and 
+representatives from inter national organizations, businesses, subnational 
+governments, and indigenous communities ” to discuss  international climate 
+ambition , among other things .198 
+ Resilience Funding . The Federal Emerg ency Management Agency (FEMA) 
+announced  three pre -disaster funding  opportunities intended to help states and 
+communities increase their preparedness in advance of climate -related extreme 
+weather events and other disasters, and improve their ability to r ecover after 
+these events. The FEMA initiatives  include (1) $1 billio n in funding for its 
+Building Resilient Infrastructure and Communities (BRIC) program for FY2021; 
+(2) $3.46 billion in funding for its Hazard Mitigation Grant Program (HMGP); 
+and (3) $160 million in funding for its Flood Mitigation Assistance (FMA) grant 
+program for FY2021.199 
+ U.S.-Germany Climate and Energy Partnership . President Biden and German 
+Chancellor Angela Merkel jointly launched the U.S. -Germany Climate and 
+Energy Partnership.200 
+ 
+ 
+Author Information  
+ 
+Richard K. Lattanzio, Coordinator  
+Specialist in Environmental Policy  
+     Corrie E. Clark  
+Analyst in Energy Policy  
+    
+Jane A. Leggett  
+Specialist in Energy and Environmental Policy  
+     Genevieve K. Croft  
+Analyst in Agricultural Policy  
+    
+Kezee Procita  
+Senior Research Librarian  
+     Rena S. Miller  
+Specialist in Financial Economics  
+    
+Jonathan L. Ramseur  
+Specialist in Environmental Policy  
+      
+                                                 
+  briefing -room/ statements -releases/ 2021/ 01/20/paris -climate -agreement/ . For more 
+information, see CRS In Focus IF11746, United States Rejoins the Paris Agreement on C limate Change: Options for 
+Congress , by Jane A. Leggett . 
+198 White House, “President Biden’s Leaders Summit on Climate, ” April 23, 2021,  
+briefing -room/ statements -releases/ 2021/ 04/23/fact-sheet -president -bidens -leaders -summit -on-climate/ . 
+199 White House, “ Biden Administration Announces Nearly $5 Billion in Resilience Funding to Help C ommunities 
+Prepare for Extreme Weather and Climate -Related Disasters, ” fact sheet,  August 9, 2021, https://ww w.whitehouse.gov/
+briefing -room/ statements -releases/ 2021/ 08/09/fact-sheet -biden -administration -announces -nearly -5-billion -in-
+resilience -funding   -prepare -for-extreme -weather -and-climate -related -disasters/ . 
+200 White House, “U.S.-Germ any Climate and Energy Partnership, ” fact sheet,  July 15, 2021, 
+  briefing -room/ statem ents-releases/ 2021/ 07/15/fact-sheet -u-s-germany -climate -and-
+energy -partnership/ .  U.S. Climate Change Policy  
+ 
+Congressional Research Service  R46947  · VERSION 4 · NEW  43  
+ 
+Disclaimer  
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan 
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and 
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other 
+than public understanding of information that has been provided by CRS to Members of Congress in 
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not 
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in 
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or 
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to 
+copy or otherwise use copyrighted material.  
+ 
